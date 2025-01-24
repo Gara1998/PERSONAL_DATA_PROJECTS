@@ -1,0 +1,2000 @@
+idnt_artista,Nombre_artista
+1,Justin Bieber
+2,Jack Ü
+3,Melendi
+4,Extremoduro
+5,Fito y Fitipaldis
+6,Estopa
+7,Loquillo Y Los Trogloditas
+8,Loquillo
+9,Los Secretos
+10,Pereza
+11,Beret
+12,Xenon
+13,C. Tangana
+14,Denom
+15,Tosko
+16,AMBKOR
+17,Costa
+18,Fyahbwoy
+19,Ocer y Rade
+20,Rafa Espino
+21,Kaze
+22,Ikki
+23,Ses Bubotes
+24,Bely Basarte
+25,Lytos
+26,El Niño de la Hipoteca
+27,Green Valley
+28,Fabbiko
+29,P.A.W.N. Gang
+30,El Vega Life
+31,Magic Magno
+32,Iván Nieto
+33,Beretta
+34,Glaukoma
+35,Los Chikos del Maiz
+36,Extremoduro + Albert Pla
+37,Guasones
+38,Sleeping At Last
+39,Marea
+40,Metallica
+41,Guns N' Roses
+42,Platero Y Tu
+43,Robe
+44,El Micha
+45,El Mayor Clasico
+46,Pitbull
+47,Zion & Lennox
+48,Ken-Y
+49,Ricky Martin
+50,CNCO
+51,Don Omar
+52,Justin Quiles
+53,Andy Rivera
+54,Daddy Yankee
+55,J Balvin
+56,Jacob Forever
+57,Paramba
+58,Peter Nieto
+59,Ilegales
+60,"Secreto ""El Famoso Biberon"""
+61,Fulanito
+62,El Chacal
+63,Baby Rhagga
+64,Ska-P
+65,Kaotiko
+66,Kaos Etíliko
+67,Lendakaris Muertos
+68,La Polla Records
+69,Boikot
+70,Sinkope
+71,Talco
+72,Txarango
+73,Narco
+74,Mägo de Oz
+75,Canteca de macao
+76,El Último Ke Zierre
+77,Leo Jiménez
+78,Mambo Kingz
+79,Luigi 21 Plus
+80,Desakato
+81,Alejandro Sanz
+82,La Fuga
+83,Extrechinato y Tu
+84,Rosendo
+85,Uzzhuaïa
+86,Tahúres Zúrdos
+87,Porretas
+88,Suicide Silence
+89,Queen
+90,Inconscientes
+91,Leño
+92,Heroes Del Silencio
+93,Medina Azahara
+94,Barricada
+95,Puerta 104
+96,Ángeles Del Infierno
+97,Sangre Azul
+98,Reincidentes
+99,Segismundo Toxicómano
+100,El Último De La Fila
+101,Memoria de pez
+102,Rulo y la contrabanda
+103,Led Zeppelin
+104,Habeas Corpus
+105,Iron Maiden
+106,Ramones
+107,Los Suaves
+108,Conjunto Primavera
+109,La Raíz
+110,Pantera
+111,ZOO
+112,Nirvana
+113,Sôber
+114,Riot Propaganda
+115,The Smiths
+116,Kase.O
+117,Arkada Social
+118,Lágrimas De Sangre
+119,Violadores Del Verso
+120,Def Con Dos
+121,Berri Txarrak
+122,Hertzainak
+123,Piperrak
+124,Sum 41
+125,Drowning Pool
+126,Caliban
+127,Megadeth
+128,Slayer
+129,Lynyrd Skynyrd
+130,System Of A Down
+131,Van Halen
+132,Mötley Crüe
+133,Saratoga
+134,Hamlet
+135,Barón Rojo
+136,Poison
+137,Slipknot
+138,Linkin Park
+139,Pink Floyd
+140,Dexys Midnight Runners
+141,David Bowie
+142,Alice In Chains
+143,Marc Maron
+144,Minus the Bear
+145,Cats Music Zone
+146,PF Project
+147,Transfer
+148,Red Hot Chili Peppers
+149,Soziedad Alkoholika
+150,Gatillazo
+151,KOP
+152,Sons of Aguirre
+153,Obus
+154,Saurom
+155,Angelus Apatrida
+156,Darksun
+157,El Reno Renardo
+158,Bala
+159,Sabaton
+160,The Clash
+161,Rage Against The Machine
+162,Anthrax
+163,Envidia Kotxina
+164,Sepultura
+165,Ayax y Prok
+166,Arce
+167,Aerosmith
+168,Demarco Flamenco
+169,Dante
+170,Rapsusklei
+171,Antonio José
+172,Soge Culebra
+173,Taburete
+174,Leiva
+175,Silvio Rodríguez
+176,Pablo Milanés
+177,Efecto Pasillo
+178,Judas Priest
+179,Tritonal
+180,Roberta Flack
+181,Scorpions
+182,Testament
+183,Children Of Bodom
+184,Manowar
+185,Skid Row
+186,Pearl Jam
+187,Warcry
+188,Stravaganzza
+189,Opera Magna
+190,Avalanch
+191,Joy Division
+192,Fleetwood Mac
+193,Tierra Santa
+194,La Selva Sur
+195,Marilyn Manson
+196,Ondas Alfa
+197,Musica Para Estudiar Academy
+198,Charles Bolt
+199,Regina Mira
+200,Jón & Jálfur
+201,Zenobia
+202,Repercusión
+203,Stone Sour
+204,Avenged Sevenfold
+205,Korn
+206,Black Sabbath
+207,Skunk D.F.
+208,Zaz
+209,Édith Piaf
+210,Gojira
+211,Ricchi E Poveri
+212,Joséphine Baker
+213,Françoise Hardy
+214,Fréro Delavega
+215,Dire Straits
+216,The Rolling Stones
+217,Indila
+218,Lamb of God
+219,thefaded
+220,Trivium
+221,Motörhead
+222,Juan V
+223,Deftones
+224,Gastar-Ten
+225,Tool
+226,Mastodon
+227,King Crimson
+228,Machine Head
+229,Skizoo
+230,Aspid
+231,Lujuria
+232,AC/DC
+233,Lolita
+234,Rise Against
+235,Rata Blanca
+236,Annihilator
+237,Monster Magnet
+238,Steel Panther
+239,Jefferson Airplane
+240,36 Crazyfists
+241,Amon Amarth
+242,Green Day
+243,Ktulu
+244,Cannibal Corpse
+245,Papa Roach
+246,Bastards On Parade
+247,Kurt Cobain
+248,Pupajim
+249,Lándevir
+250,Kannon
+251,Sugarless
+252,Hora Zulu
+253,Burzum
+254,Amesoeurs
+255,Emperor
+256,Día Sexto
+257,Lifelover
+258,Lustre
+259,Ulver
+260,Gorgoroth
+261,The Ruins Of Beverast
+262,PATRIARKH
+263,Iggy Pop
+264,Brian Eno
+265,Liturgy
+266,Deafheaven
+267,Violet Cold
+268,Agalloch
+269,Ghost Bath
+270,Alcest
+271,Venom
+272,Pagoda
+273,Hole
+274,Silverchair
+275,Ezetaerre
+276,Furbah
+277,Bathory
+278,Primordial
+279,DOWN
+280,Frida
+281,Lofofora
+282,White Zombie
+283,Woods Of Ypres
+284,Accept
+285,Ozzy Osbourne
+286,UFO
+287,Mercyful Fate
+288,Mayhem
+289,Exodus
+290,HammerFall
+291,Frankie Ruiz
+292,U2
+293,Ana Gabriel
+294,Avatar
+295,L7
+296,2Pac
+297,Buhos
+298,Nacho
+299,Nas
+300,In Flames
+301,At The Gates
+302,Dark Tranquillity
+303,Opeth
+304,Volbeat
+305,Mandowar
+306,Lepoka
+307,WWE
+308,Iced Earth
+309,Incursed
+310,Dragonfly
+311,Eskorbuto
+312,Boot Boys
+313,Salduie
+314,Legado de una Tragedia
+315,Debler
+316,Epica
+317,Kampfar
+318,Sylvania
+319,The Doors
+320,Green River
+321,Mother Love Bone
+322,Audioslave
+323,Screaming Trees
+324,Eluveitie
+325,Dagoba
+326,Guadaña
+327,Drakum
+328,Sovengar
+329,Ocelon
+330,Keldark
+331,Sonata Arctica
+332,Avantasia
+333,Gloryhammer
+334,Powerwolf
+335,Les Big Byrd
+336,Night Moves
+337,Sports
+338,Tame Impala
+339,La Femme
+340,The Stooges
+341,Monasthyr
+342,Soldier
+343,Celtian
+344,Maite Perroni
+345,Radiohead
+346,Soundgarden
+347,The Smashing Pumpkins
+348,Death From Above 1979
+349,Theory of a Deadman
+350,Placebo
+351,Bush
+352,The Used
+353,Stratovarius
+354,Sodom
+355,El Canto Del Loco
+356,Lou Reed
+357,The Pogues
+358,Airbourne
+359,El Barrio
+360,ACID MOTHERS TEMPLE
+361,Vhäldemar
+362,Crisix
+363,Haken
+364,Gigatron
+365,Valkyria
+366,Macaco
+367,Chambao
+368,India Martinez
+369,Döria
+370,Dio
+371,Meshiaak
+372,Strikeback
+373,Ars Amandi
+374,The Wizards
+375,Capitan Mr Litro
+376,Ricky Hombre Libre
+377,Nao Galiza
+378,Arma X
+379,Kanela En Rama
+380,Charly Efe
+381,Bellako
+382,Thrash Bombz
+383,Toxic Waltz
+384,Dust Bolt
+385,Suicidal Angels
+386,Bloodhunter
+387,Hyades
+388,María Jiménez
+389,Warbringer
+390,Terrifier
+391,Dinosaur Jr.
+392,Them Crooked Vultures
+393,Candlebox
+394,Smoking Souls
+395,Los Chichos
+396,Dremen
+397,mafalda
+398,SonDaRúa
+399,Kulto Kultibo
+400,La Otra
+401,RokaVieja
+402,Dream Theater
+403,Celtibeerian
+404,Survael
+405,Grimner
+406,Homes Llúdriga
+407,La Vallekana Sound System
+408,bigott
+409,Los De Marras
+410,Natos y Waor
+411,Hard GZ
+412,Aspencat
+413,La Gossa Sorda
+414,Nikone
+415,The Wookies
+416,The Cure
+417,Cycle Sluts From Hell
+418,Arctic Monkeys
+419,Iseo & Dodosound
+420,The Strokes
+421,Kasabian
+422,Bürdel King
+423,The Libertines
+424,The Last Shadow Puppets
+425,The Fratellis
+426,Oasis
+427,The Killers
+428,The White Stripes
+429,Darlia
+430,Interpol
+431,The Blue Dawns
+432,Franz Ferdinand
+433,Miles Kane
+434,Basement
+435,Sweet Water
+436,Skin Yard
+437,The Seafoams
+438,Somas Cure
+439,Kings of Leon
+440,Babyshambles
+441,Beady Eye
+442,Kaiser Chiefs
+443,Duran Duran
+444,Meat Puppets
+445,Killing Joke
+446,Franz Liszt
+447,Erik Satie
+448,Ludwig van Beethoven
+449,Steve Anderson
+450,If I Stay Cast
+451,Johannes Brahms
+452,Antonín Dvořák
+453,Peace
+454,O Terno
+455,The Technicolors
+456,D.I.D
+457,The Birds of Satan
+458,The Piano Guys
+459,Heaven 17
+460,Mala Praxis
+461,Aphonnic
+462,José Andrëa y Uróboros
+463,Fran Yera
+464,La Fúmiga
+465,Times New Roman
+466,Richard Hawley
+467,Circa Waves
+468,eon
+469,The Beatles
+470,The Who
+471,Percy Thrills Thrillington
+472,Wings
+473,The Little Flames
+474,Foals
+475,Be Timeless
+476,No Potable
+477,Cactus
+478,Ocio
+479,Sound Bullet
+480,GIMS
+481,George Harrison
+482,Jimi Hendrix
+483,The Damned
+484,New Order
+485,Love and Rockets
+486,Taking Back Sunday
+487,Valtonyc
+488,Siouxsie and the Banshees
+489,Spiderbait
+490,Blur
+491,Supertramp
+492,Razorlight
+493,Neil Young
+494,Two Door Cinema Club
+495,The Family Rain
+496,The Plastics
+497,King Gizzard & The Lizard Wizard
+498,Klara & Jag
+499,Strobaek
+500,Men I Trust
+501,Catfish and the Bottlemen
+502,Drowners
+503,Lana Del Rey
+504,Vampire Weekend
+505,Sebastian Yatra
+506,FIDLAR
+507,Fauno
+508,Albert Hammond Jr
+509,Foster The People
+510,Zimbra
+511,Paul McCartney
+512,Ringo Starr
+513,Klaxons
+514,Slash
+515,Helloween
+516,Nach
+517,Sara Hebe
+518,Calle 13
+519,Don Patricio
+520,Tremenda Jauría
+521,Becky G
+522,Krudas Cubensi
+523,Gata Cattana
+524,NATHY PELUSO
+525,Thalia
+526,Charanga la Nota
+527,Lola Indigo
+528,IAmChino
+529,Mau y Ricky
+530,MrKirbyAndZ-Cratch
+531,La Mare
+532,Rebeca Lane
+533,John Lennon
+534,Echo & the Bunnymen
+535,TéCanela
+536,Malonda
+537,Hielo Beats
+538,Edu Zardoya
+539,Cecilio G.
+540,Sticky M.A.
+541,Bejo
+542,ZZ Top
+543,The White Buffalo
+544,Frank Zappa
+545,Yes
+546,Soto Asa
+547,DICC
+548,Le Rue Boys
+549,Camel
+550,Renaissance
+551,The Yardbirds
+552,Enry-K
+553,El Virtual
+554,Hakim
+555,Dawaira
+556,Pignoise
+557,Pochi
+558,Kaydy Cain
+559,Pedro LaDroga
+560,$kyhook
+561,Love Yi
+562,Albany
+563,AC3
+564,Miyah
+565,Khaled
+566,Juicy BAE
+567,Public Image Ltd.
+568,Alex Turner
+569,Paul Marmota
+570,Scila
+571,Mama Ladilla
+572,Ara Malikian
+573,ToteKing
+574,El Chojin
+575,H Mafia
+576,R De Rumba
+577,SFDK
+578,Cookin Soul
+579,Flowklorikos
+580,The Stone Roses
+581,Nicky Jam
+582,DJ Nelson
+583,Ñejo
+584,Suite Soprano
+585,Shotta
+586,FRANK T
+587,Alan Walker
+588,Cariño
+589,PUTOCHINOMARICÓN
+590,LUNA KI
+591,10cc
+592,Morrissey
+593,El Momo
+594,Foyone
+595,Putolargo
+596,Lírico
+597,Johnny Marr
+598,The Specials
+599,Pulp
+600,Sho-Hai
+601,Dayvi
+602,Heavy Roots
+603,TOOL
+604,Sonic Youth
+605,Piezas
+606,Proof
+607,La Excepcion
+608,Gordo Master
+609,Zetazen
+610,Gtr Números 1
+611,Luisaker
+612,Hazhe
+613,Coque Malla
+614,Dollar Selmouni
+615,Damaco
+616,Jotamayúscula
+617,DELLAFUENTE
+618,Santiuve
+619,Falsalarma
+620,Arianna Puello
+621,Rels B
+622,Danny Romero
+623,Kaze y Beto
+624,Yung Beef
+625,Moonkey
+626,Blake
+627,Matasvandals
+628,Calero LDN
+629,FERNANDOCOSTA
+630,Maxi
+631,LFAM
+632,SacrificioyPasta
+633,Juancho Marqués
+634,El Niño Snake
+635,Little el Crack
+636,Beto
+637,Zasko Master
+638,Eskean Kristö
+639,Los Chicos de la Lluvia
+640,Paul Paradox
+641,Erin Comando Katana
+642,AYAX
+643,Maka
+644,The Skatalites
+645,John Holt
+646,Zona Ganjah
+647,Symarip
+648,Al Barry
+649,Damian Marley
+650,Don Lunfardo y el Señor Otario
+651,Prince Buster
+652,Bob Marley & The Wailers
+653,Juacko
+654,Zatu
+655,Lex Luthorz
+656,995
+657,Duo Kie
+658,Triple XXX
+659,Sharif
+660,Mala Rodríguez
+661,JHAYCO
+662,Lunay
+663,Highkili
+664,Shy Kolbe
+665,Pimp Flaco
+666,Kinder Malo
+667,Xhelazz
+668,Tenda
+669,Karlos Animal
+670,Fran Mariscal
+671,Combo Calada
+672,Ars Moris
+673,Kae3
+674,MXRGXN
+675,Locus
+676,Free City
+677,Nuñez
+678,Los Draps
+679,Broem
+680,Ever So Blue
+681,Jen Brook
+682,Borghild Wenn
+683,Michel Brown
+684,Joaquin Alejandro
+685,Matti Aalto
+686,Jutila
+687,Roman Melass
+688,Sumsar
+689,Oneke
+690,Jaidy Thissen
+691,Ivalu Karlsen
+692,Berlioz
+693,Aleksy Wysocki
+694,Francie Stooge
+695,Limabeatz
+696,C.P.V.
+697,Kultama
+698,Alberto Gambino
+699,Robert Elovsson Quartet
+700,Harper Wyatt
+701,Phillip Love
+702,The Golden Hour Quartet
+703,Oakwood Station
+704,The Lenny Ryan Trio
+705,Rachel Younger
+706,Tingvall Trio
+707,Jack Rosenbaum
+708,Joel Lyssarides
+709,Fredrik Nordström
+710,El Hombre Viento
+711,Keniama
+712,Prozak Soup
+713,Dakidarria
+714,La Pegatina
+715,Capaz
+716,Residente
+717,Cocteau Twins
+718,Bad Gyal
+719,Omar Montes
+720,salvi perez
+721,Fusa Nocta
+722,Chaman
+723,AlaDeMoska
+724,Senyor Oca
+725,Elane
+726,Bubaseta
+727,Deflow
+728,Hara Noda
+729,Romaine LaGrande
+730,Ossie Woods
+731,Rhonda Holland
+732,Léonie Deval
+733,Mewael Yemane
+734,Jonas Holmes
+735,Viljar Iversen
+736,Michael Ottosson
+737,Elliot Ziegler
+738,Way Beyond
+739,Pio Roque
+740,Jacob Higgins
+741,Maria Marble
+742,Ana Petrovna
+743,Tomasz Kraal
+744,Michel Landau
+745,Mark Souzek
+746,Danko Debeljak
+747,Randy Oppenheim
+748,Kyran Martin
+749,Arden Forest
+750,Vail Bizier
+751,Alida Sørby
+752,Maik Kuefer
+753,Rhyan Zorn
+754,Jef Martens
+755,Elizabeth Bouknight
+756,Bert Hearns
+757,Roman Jensen
+758,Silke Schroder
+759,Esperanza
+760,Sarah Spring
+761,Falerina Paquet
+762,Jens Wechsler
+763,Eric Badanti
+764,Music Lab Collective
+765,Doris Casella
+766,Denise Billingsley
+767,Martin Greenbaum
+768,Elsa Enestam
+769,Marcus Ackermann
+770,Papa Tout Gris
+771,Aimee Fleur
+772,Kristen Nichols
+773,Arelius
+774,Morieux
+775,Lorraine J. Kovach
+776,Franz Gordon
+777,Fiona Elyse
+778,Snow in April
+779,Khanipova
+780,Dominique Charpentier
+781,Frano Stanić
+782,Olai Ruud
+783,Dean Delaux
+784,Roman Nadler
+785,Mark Mintuny
+786,Valbona Ceferin
+787,Caitrìona Caitir
+788,Domitila James
+789,Gail Singleton
+790,Marcel Kaestner
+791,Tristan Eckerson
+792,Darrell Boxman
+793,Zygmunt Czarnecki
+794,Csizmazia Etel
+795,Ryu Ito
+796,Patricia Anne
+797,Lisa Chong
+798,Melanie Adler
+799,Nicola Conti
+800,Robin Bennich
+801,Valerija Novosel
+802,Isaac Nash
+803,Alexandra Streliski
+804,Hayden Cargile
+805,Lennie Gardens
+806,Emmanuelle Rimbaud
+807,Maya Bloom
+808,Mary Billiot
+809,Massimo Natali [IT]
+810,Abbie Lou Johnston
+811,Joseph Gatscyjk
+812,Vittoria Emanuelle
+813,Henry Hume
+814,Vincent Sparro
+815,Francesca Caroléo
+816,Gona
+817,Gustav Scheringer Duo
+818,The Red Robin Quartet
+819,Infinity Ripple
+820,CMC 3
+821,Henry Lindon
+822,Eric Rowland
+823,Paul Moretti Trio
+824,Carl Bagge Trio
+825,Ronald & the Fairies
+826,Saint Clair Quartet
+827,Dennis Roland
+828,The Blue Green
+829,Bleecker Jazz Duo
+830,Grove Street Quartet
+831,Mike Coen
+832,David Hazeltine
+833,Vernon Sanders
+834,Art Kingsley
+835,Peter Sandberg
+836,The Josh Rogers Band
+837,Jerry McHoy
+838,Leo Sherman
+839,Maxeen
+840,Sal Ritter
+841,Tim Donnelly Band
+842,Ted Lightfoot
+843,Leonard Peters
+844,Maria Holloway
+845,Eric Cadogan
+846,Paul Todnem
+847,Louise Lennehan
+848,Christina Higham
+849,Józef Gatysik
+850,Leyton Stills
+851,Ricki Westberg
+852,Harold Siles
+853,Petra Birgisdóttir
+854,Ian Wong
+855,Jesse Brown
+856,Rand Aldo
+857,Agni Bjark
+858,Mildred Wolf
+859,Domenik Kalinsky
+860,Mia Strass
+861,Human Tetris
+862,Afrojuice 195
+863,J Holland
+864,Recycled J
+865,Dieter Saenger
+866,Sadie and Paul
+867,Andana
+868,Victor Rutty
+869,Endikah
+870,BLAKE
+871,Jarfaiter
+872,Kaseeno
+873,Mister Cumbia
+874,Mutiko
+875,Canserbero
+876,Liana Malva
+877,Apache
+878,Ana Belén
+879,Solo Soul
+880,Anier
+881,Delaossa
+882,Nujabes
+883,Andrew Huang
+884,Home
+885,Shlohmo
+886,Four Tet
+887,Bonobo
+888,Bobby Caldwell
+889,Flamingosis
+890,Costantino Carrara
+891,Jaira Burns
+892,David Sides
+893,Mad Q
+894,Irma Kantola
+895,Emily Rubye
+896,Maree Docia
+897,Jon Hopkins
+898,Kylian Rebour
+899,Kari Bin
+900,Eagle Lake
+901,Ana Olgica
+902,August Wilhelmsson
+903,Aaron Lansing
+904,Henrik Janson
+905,Landwerm
+906,Johannes Bornlöf
+907,Joaqin Trudet
+908,Vincent & A Secret
+909,Martin Rapide
+910,Dorothy Laddland
+911,Omer Bresler
+912,Jon E. Amber
+913,LUCHS
+914,Mavis Marchena
+915,Herbert Campas
+916,Leyland Rogers
+917,Lucas Bernard
+918,Mounia Sedé
+919,Léon Branche
+920,Fouad Elalamy
+921,Frantz Langdon
+922,Patrizio Pisani
+923,Céline Aubin
+924,Diana Monserati
+925,Robert Gafforelli
+926,Dominique Marais
+927,Francine Leblanc
+928,Alexis Cohen
+929,Akon
+930,AyaxRAP
+931,Ayax
+932,McKlopedia
+933,Dualy
+934,Aissa
+935,Mujeres
+936,CEVID 19
+937,The Andy Love Band
+938,James Jackson Jazz Trio
+939,Claribel Ramón
+940,Toshi Sakura
+941,Geir Gudmundson
+942,Alexandra Zvereca
+943,Marie Denis
+944,Stephan Moccio
+945,Élise Aucoin
+946,Leslie Miles
+947,Amity Fall
+948,Stephan Neudorf
+949,Carin Florie
+950,Isobel Noble
+951,Masaki Kawasaki
+952,Hector Hellström
+953,Yao Chen
+954,La Puta Opepé
+955,Akapellah
+956,Ceaese
+957,Ana Mena
+958,Portavoz
+959,Rich Vagos
+960,Robot95
+961,Frijo
+962,Natalia Lacunza
+963,mori
+964,Confeti de Odio
+965,Los Nastys
+966,Bizarrap
+967,El Jincho
+968,Bad Sound
+969,Easy-S
+970,Pedro Capó
+971,Ozuna
+972,Maluma
+973,Sech
+974,Tainy
+975,Micro TDH
+976,Scarface Johansson
+977,Pole.
+978,Hens
+979,Agrupación Coral Iradier
+980,Kanjar'oc
+981,Danelicious
+982,Cruz Cafuné
+983,Super Yei
+984,Trueno
+985,Locoplaya
+986,Petit Ribery
+987,Dirty Porko
+988,Xavibo
+989,Nadal015
+990,Bardero$
+991,LOWLIGHT
+992,Finesse
+993,Shoda Monkas
+994,Mayo 214
+995,One Path
+996,ZARAMAY
+997,Eva Ruiz
+998,Ochentay7
+999,Bad Bunny
+1000,Danman
+1001,Vicco
+1002,Luck
+1003,Anuel AA
+1004,Myke Towers
+1005,ANTIFAN
+1006,Ramriddlz
+1007,Agorazein
+1008,Bad Bunsy
+1009,C. Ozun
+1010,ABHIR
+1011,El Dave
+1012,Alejo
+1013,KRU2
+1014,Julia Andersson
+1015,Carlos Jean
+1016,DOLLAR
+1017,Trio Vegabajeño
+1018,Anita Rosswell
+1019,Tall Trees Jazz
+1020,Wildflower Trio
+1021,Tom Bates
+1022,Red Brick Lane
+1023,Fulton Street Players
+1024,Duponte et Duponte
+1025,Asi Kaplan Jazz Band
+1026,Novo Stella
+1027,The Midnight Quartet
+1028,Rossdale Junction
+1029,Dan Evans-Parker
+1030,The City of Birches
+1031,Sixth Street Quartet
+1032,Norberg
+1033,Robert Elovsson
+1034,Holborns
+1035,We Three Trio
+1036,Greydon Park Band
+1037,Trois Amis
+1038,Zander Jazz Trio
+1039,Bladverk Band
+1040,Cedric Armfeldt
+1041,Pontus De Bjorn
+1042,Aimon Cour
+1043,Chordialilies
+1044,William Cas
+1045,Gigolo Y La Exce
+1046,Yandel
+1047,Rafa Pabön
+1048,Lérica
+1049,Maikel Delacalle
+1050,Ébano
+1051,Nio Garcia
+1052,Smuv
+1053,Morad
+1054,eevee
+1055,Shierro
+1056,[bsd.u]
+1057,Made in M
+1058,LoFi Waiter
+1059,SwuM
+1060,Jinsang
+1061,WYS
+1062,Altair Blake
+1063,Oatmello
+1064,Chilled Cougar
+1065,SPEECHLESS
+1066,G Mills
+1067,mommy
+1068,Tom Doolie
+1069,BluntOne
+1070,Kupla
+1071,Jhove
+1072,Pandrezz
+1073,mell-ø
+1074,brillion.
+1075,Sleepy Tom
+1076,j'san
+1077,Idealism
+1078,The Deli
+1079,Azido 88
+1080,Flovry
+1081,Mondo Loops
+1082,drkmnd
+1083,Kid Kio
+1084,C4C
+1085,El Coleta
+1086,Lucas Requena
+1087,Mucho Muchacho
+1088,Felix Hertzog
+1089,Arlette Leduc
+1090,Alma'
+1091,Naturaleza
+1092,Dormir Profundamente
+1093,Denise Rosenthal
+1094,Samantha Hudson
+1095,Fuego
+1096,One Day in Lyon
+1097,Spirit Minds
+1098,natsu.
+1099,Zen Gaya
+1100,aki.
+1101,Carbon Fiber Music
+1102,Pipo Beatz
+1103,Paula Cendejas
+1104,LOS SANTOS
+1105,Noa Sainz
+1106,Choclock
+1107,Fuel Fandango
+1108,InnerCut
+1109,Sueño Profundo Club
+1110,Sr. Wilson
+1111,Jaime Lorente
+1112,Bandz
+1113,The Kid LAROI
+1114,Dexter Mars
+1115,Chris Mazuera
+1116,Ambulo
+1117,Yasumu
+1118,TABAL
+1119,juniorodeo
+1120,Lenny Loops
+1121,Nico Miseria
+1122,Mir Nicolas
+1123,Miranda
+1124,RepliK
+1125,La Mafia del Amor
+1126,KAROL G
+1127,Nicki Nicole
+1128,FMK
+1129,Isaac Torres
+1130,Papu DJ
+1131,L-Gante
+1132,DJ Tao
+1133,YSY A
+1134,Alan Gomez
+1135,Duki
+1136,The Toy Dolls
+1137,Cráneo
+1138,ACRU
+1139,Lupita's Friends
+1140,Chill Mafia Records
+1141,Arcángel
+1142,Marc Seguí
+1143,Cardi B
+1144,KHEA
+1145,Cosculluela
+1146,Vulpes
+1147,Nikotina
+1148,Chocano
+1149,Los Calis
+1150,El Biles
+1151,Ben Yart
+1152,La Fortaleza Real
+1153,Unidad Alavesa
+1154,Rotten XIII
+1155,Israel B
+1156,Alex Gargolas
+1157,Los Delinquentes
+1158,Café Quijano
+1159,La Cabra Mecanica
+1160,Coti
+1161,Nena Daconte
+1162,Fran Perea
+1163,Los Ronaldos
+1164,Siempre Asi
+1165,El Arrebato
+1166,Sonia Y Selena
+1167,Despistaos
+1168,María Isabel
+1169,Julieta Venegas
+1170,Amaral
+1171,Miguel Ríos
+1172,Aventura
+1173,Mora
+1174,Mad Division
+1175,Chulito Camacho
+1176,The Friday’s Crew
+1177,K1ZA
+1178,Rosana
+1179,PARTYNEXTDOOR
+1180,Ngyn
+1181,Vanya Sogaya
+1182,Gera MX
+1183,El Combo Perfecto
+1184,Machete en Boca
+1185,Sofía Gabanna
+1186,Santa Salut
+1187,Shoren
+1188,Gloosito
+1189,Blessed013
+1190,Piso 21
+1191,Lennis Rodriguez
+1192,Veneno Crew
+1193,La Sra. Tomasa
+1194,Ivo Incuerdo
+1195,Boza
+1196,Kenia OS
+1197,Skakeitan
+1198,Pablo Chill-E
+1199,Luisao
+1200,Killah Man
+1201,Cardin Oficial
+1202,Doctore
+1203,SWIT EME
+1204,JC Reyes
+1205,Camin
+1206,La Zowi
+1207,King Doudou
+1208,Funzo & Baby Loud
+1209,Chill Chicos
+1210,Go Roneo
+1211,ARON
+1212,9ckles
+1213,BEA PELEA
+1214,J.Skxnny
+1215,Alizzz
+1216,Carolina Durante
+1217,Colectivo Da Silva
+1218,Jauria Santa
+1219,Agujero de Salida
+1220,Derby Motoreta’s Burrito Kachimba
+1221,Arde Bogotá
+1222,Sadly
+1223,Antony Z
+1224,Selecto Picasso
+1225,Leihotikan
+1226,David Santos
+1227,Cariatydes
+1228,Yer
+1229,Nevo Angel
+1230,C.R.O
+1231,Sleepy Dogs
+1232,Adriz Madrid
+1233,EZVIT 810
+1234,Ergo Pro
+1235,Wisin
+1236,Eladio Carrion
+1237,Fran Laoren
+1238,Beny Jr
+1239,PXXR GVNG
+1240,Rvfv
+1241,Cocco Lexa
+1242,Mariah Angeliq
+1243,zzoilo
+1244,Sweet Barrio
+1245,Jimena Amarillo
+1246,Noah
+1247,LA YOUNG
+1248,Los Zopilotes Txirriaos
+1249,BMB
+1250,Tiago PZK
+1251,Kafu Banton
+1252,trashi
+1253,"Walls, Xavibo, Marc Seguí"
+1254,Lalo Ebratt
+1255,Florentino
+1256,Manu Chao
+1257,Babi
+1258,Autobus Magikoa
+1259,Orslok
+1260,Jay Vázquez
+1261,Alemán
+1262,Buman
+1263,Sule B
+1264,Caravan Trip
+1265,Farruko
+1266,Bryant Myers
+1267,Jory Boy
+1268,Marc Anthony
+1269,Lionware
+1270,John Pollõn
+1271,Ventura
+1272,ANADIE
+1273,Solho
+1274,Jona Alk
+1275,Serko
+1276,Gente Jodida
+1277,KHAAY
+1278,Samie-X
+1279,Young Gipsy
+1280,Tribade
+1281,Las Ninyas del Corro
+1282,Xtragos
+1283,Califato ¾
+1284,Catana
+1285,Mueveloreina
+1286,Cma
+1287,Claudio Montana
+1288,Ismael Rivera
+1289,Erik Urano
+1290,raxet1
+1291,JazzWoman
+1292,Sombra Alor
+1293,Lasole
+1294,Ketekalles
+1295,Mda
+1296,shego
+1297,Raggio
+1298,DL Blando
+1299,Neelo
+1300,El $uave
+1301,Lil Mess
+1302,Yung Nick
+1303,Diácono
+1304,SAM DAVIES
+1305,El Alfa
+1306,Kiddtetoon
+1307,Alvaro Diaz
+1308,Calibre 50
+1309,La Santa Grifa
+1310,Nasta
+1311,Miss Raisa
+1312,Migué Chupete
+1313,SIBIL.LA3
+1314,Junior H
+1315,Bratty
+1316,Jerry Di
+1317,Leon Leiden
+1318,La Pantera
+1319,Dano
+1320,Ed Maverick
+1321,Hoke
+1322,Bon Calso
+1323,Samuraï
+1324,Stormykid
+1325,Al Safir
+1326,Takers
+1327,Rauw Alejandro
+1328,Luisito Pleureur
+1329,ROSALÍA
+1330,Billie Eilish
+1331,Tokischa
+1332,James Blake
+1333,Arca
+1334,Tatxers
+1335,Perlata
+1336,Barne Guda
+1337,Bake Faltsua
+1338,Feid
+1339,Iskender
+1340,Paloma Mami
+1341,SIMONA
+1342,Silvana Estrada
+1343,Guitarricadelafuente
+1344,Urias
+1345,Kali Uchis
+1346,Blackpanda
+1347,vangoura
+1348,The Marías
+1349,Princesa Alba
+1350,Lapili
+1351,JEDET
+1352,Doja Cat
+1353,Amaarae
+1354,TAICHU
+1355,$anta
+1356,Ms Nina
+1357,LHARA
+1358,Cami
+1359,Arias
+1360,Zenit
+1361,Jaro Cristo
+1362,Cris Mj
+1363,Amaia
+1364,KORDELYA
+1365,Girl Ultra
+1366,Natanael Cano
+1367,Rebelde la Serie
+1368,Elvirus
+1369,Nieto666
+1370,EDDI CIRCA
+1371,Meth Math
+1372,Gad Yola
+1373,BIBI
+1374,Judeline
+1375,Mon Laferte
+1376,La Doña
+1377,Camila Cabello
+1378,Justo Betancourt
+1379,iLe
+1380,La Más Draga
+1381,Moneo
+1382,Hilfi
+1383,Fiebre
+1384,Ingrid Laien
+1385,Crudo Means Raw
+1386,Ly Raine
+1387,CRONO$
+1388,ANGEL22
+1389,Ruzzi
+1390,Ambar Lucid
+1391,FrioLento
+1392,Isadora
+1393,Rebe
+1394,Plan B
+1395,Marcianeke
+1396,Lola Flores
+1397,Bandalos Chinos
+1398,Charli xcx
+1399,J Dose
+1400,Ivancano
+1401,Carla Lourdes
+1402,valverdina
+1403,María Escarmiento
+1404,Namasenda
+1405,Maren
+1406,Ginebras
+1407,Delaporte
+1408,Alex Guerrero
+1409,interrogación amor
+1410,Karma C
+1411,Aleesha
+1412,Porter
+1413,Damien
+1414,Ani Queen
+1415,Liz Forte
+1416,6orka
+1417,Carlo Frio
+1418,Goa
+1419,Cupido
+1420,Isabella Lovestory
+1421,Kaixo
+1422,Jay Cas
+1423,Marco Eguren
+1424,Alfred García
+1425,Claudia Bain
+1426,Pipiolas
+1427,Conelli
+1428,Belén Aguilera
+1429,Delgao
+1430,Sofía Amores
+1431,Julieta
+1432,Marta Movidas
+1433,DORA
+1434,Ana Webb
+1435,Begut
+1436,HOLOGRAMMA
+1437,Mikel Erentxun
+1438,Nerea Rodríguez
+1439,Pol Granch
+1440,pablopablo
+1441,alequi
+1442,Marinita Precaria
+1443,El Negro
+1444,Els Pets
+1445,Amaia Miranda
+1446,Irenegarry
+1447,Sinego
+1448,El Yerman
+1449,Zahara
+1450,Marta Sango
+1451,Ale Berraquero
+1452,Paco Moreno
+1453,El Buen Hijo
+1454,Socunbohemio
+1455,Laborde
+1456,Alba Reche
+1457,Valeria Castro
+1458,Los Hermanos Cubero
+1459,Casero
+1460,Kaio Viana
+1461,Pepe y Vizio
+1462,Indigo Jams
+1463,Arijit Singh
+1464,Ellegas
+1465,Various Artists
+1466,Ajet 2F
+1467,Amrita Singh
+1468,AP Dhillon
+1469,TylerB
+1470,Mvrtin
+1471,Dellachaouen
+1472,KIDDO
+1473,GlorySixVain
+1474,Vazkez
+1475,Secundaria
+1476,Aitana
+1477,Axelot
+1478,María Sánchez
+1479,Jurdannn
+1480,Dosnaker
+1481,L'Beel
+1482,Besmaya
+1483,La Paloma
+1484,Hofe
+1485,Diimalo
+1486,Alberdi
+1487,Jhonny Weezy
+1488,Ryan Castro
+1489,Shakira
+1490,Gala Nell
+1491,Rojuu
+1492,Grasias
+1493,MENTIRA
+1494,Algo
+1495,Maria Arnal
+1496,Karavana
+1497,Rigoberta Bandini
+1498,Ariox
+1499,Rakky Ripper
+1500,Xcelencia
+1501,Blessd
+1502,Juan Magán
+1503,Ovi
+1504,50 Cent
+1505,Dillom
+1506,LATIN MAFIA
+1507,Camilo Séptimo
+1508,Bhavi
+1509,Grupo Arriesgado
+1510,T3R Elemento
+1511,Polimá Westcoast
+1512,Dj Jouga
+1513,Microbio
+1514,Ciniko el Octavo Arte
+1515,Banda XXI
+1516,The Weeknd
+1517,AMORE
+1518,Bounties
+1519,Malakias
+1520,Merina Gris
+1521,Xiberoots
+1522,Los Chimberos
+1523,Kaimanes
+1524,Lasio
+1525,Kabasaki
+1526,El Bobe
+1527,MC Buzzz
+1528,Shaolin Monkey
+1529,GARRAIO
+1530,Kelmitt
+1531,SUOB
+1532,Juseph
+1533,Romeo Santos
+1534,Wisin & Yandel
+1535,Margarita Quebrada
+1536,Veintiuno
+1537,Héroes 2020
+1538,Roi Méndez
+1539,Periglo
+1540,J Martina
+1541,Nerve Agent
+1542,Marmi
+1543,Tom Rosenthal
+1544,Jabbi
+1545,Cris Moné
+1546,L'Entourloop
+1547,James Curry
+1548,Kina
+1549,Pokito Paranoiko
+1550,Plasaporros
+1551,Leftee
+1552,Santino Le Saint
+1553,Garolo
+1554,Sosad.97
+1555,Sen Senra
+1556,Zikin
+1557,Chaos in Basque Country
+1558,Etxekalte
+1559,Joven Bala
+1560,Los Killaos
+1561,MEMÉ
+1562,Nevver
+1563,Viuda
+1564,Amygdala
+1565,GAZZI
+1566,TOC
+1567,Olaia Inziarte
+1568,Mconak
+1569,Bi Bala
+1570,Anari
+1571,Mirua
+1572,Euskoprincess
+1573,Berto
+1574,Kokoshca
+1575,Lukiek
+1576,Rodol VX
+1577,Doctor Deseo
+1578,Bengo
+1579,Ibil Bedi
+1580,Katamalo
+1581,La Xinni
+1582,iloveyoubrazzy
+1583,Benizze
+1584,Ralphie Choo
+1585,rusowsky
+1586,Ciervoss
+1587,VAN17INO6
+1588,VVV [Trippin'you]
+1589,Sie777e
+1590,Paris Boy
+1591,Simple Plan
+1592,kievra
+1593,suai suave
+1594,maiXa
+1595,Hemendik At
+1596,Tatta
+1597,Nhil
+1598,Skabidean
+1599,KRISTONAK
+1600,exit303
+1601,Gose
+1602,Axeri
+1603,Dromedarios Mágicos
+1604,Sierra
+1605,Ill Pekeño
+1606,Txiltxoko
+1607,"Pirritx, Porrotx eta MariMotots"
+1608,Delakuria
+1609,Nueve Desconocidos
+1610,EMEKA
+1611,BioN
+1612,L'haine
+1613,LA ÉLITE
+1614,Diego 900
+1615,Peru
+1616,Trikoma Banda
+1617,Vulk
+1618,Broken Lip
+1619,The Whistlers
+1620,sistema de entretenimiento
+1621,Pau By Chance
+1622,Cristina Aspirina
+1623,The Gardener
+1624,Diamante Negro
+1625,Dharmacide
+1626,Toxic Crow
+1627,El Cherry Scom
+1628,Zartako-K
+1629,Kaosa Euskal Herrian
+1630,Fane
+1631,Majin Shiro
+1632,GordoCapo
+1633,Joseles
+1634,CHN
+1635,Alejandro Fierro
+1636,Eli
+1637,Katu
+1638,DIEGO OREA
+1639,Coco
+1640,Yurena
+1641,zolas
+1642,El Poni
+1643,Robzzz
+1644,Ojete Calor
+1645,Sete Sousa
+1646,Etxepe
+1647,txopet
+1648,Pxli
+1649,Hnos Munoz
+1650,Sesentay6
+1651,lejazzy
+1652,Bearoid
+1653,Rico Rosa
+1654,Burze
+1655,Burutik
+1656,justine sainte
+1657,Mon Dvy
+1658,Huntza
+1659,Lisasinson
+1660,Marcelo Criminal
+1661,Iuve Botticelli
+1662,vatocholo
+1663,DEVA
+1664,D3llano
+1665,EH Sukarra
+1666,KITZIKA
+1667,Quevedo
+1668,ZETAK
+1669,Ciberchico
+1670,XSakara
+1671,Ali ZC
+1672,Ñengo Flow
+1673,Verto
+1674,ORTIGA
+1675,Barry B
+1676,Boyanka Kostova
+1677,Gorillaz
+1678,Vivi K
+1679,Periferia
+1680,BAJOCERO X
+1681,The Rapants
+1682,Bianca Mui
+1683,Teuma Thug
+1684,Huda
+1685,BRONQUIO
+1686,BRAVA
+1687,Escaparate de Poesía
+1688,Willis Drummond
+1689,The 1975
+1690,Taylor Swift
+1691,Rodrigo Cuevas
+1692,Metrika
+1693,Elio Toffana
+1694,AURORA
+1695,Carlos Sadness
+1696,La Bien Querida
+1697,Raimundo el Canastero
+1698,Raül Refree
+1699,Las Ligas Menores
+1700,shakeitmila
+1701,Lady A
+1702,Clairo
+1703,Prince Royce
+1704,Ariana Grande
+1705,Bb trickz
+1706,Raul Clyde
+1707,DAPS
+1708,Blanco 43720
+1709,AyoLion
+1710,Peio
+1711,Pirris Sosa
+1712,Svarez
+1713,Kalipotxo
+1714,Oskorri
+1715,Txomin Artola
+1716,Zirikass
+1717,Grupo Frontera
+1718,Aiko el grupo
+1719,Jorge Drexler
+1720,MusicoterapiaTeam
+1721,Lluvia del Bosque
+1722,Soulfly
+1723,Silverstein
+1724,Rites of Spring
+1725,pobre lucca
+1726,DJ Saot ST
+1727,resi
+1728,El Columpio Asesino
+1729,Barder
+1730,Pantallaga
+1731,La Culpa
+1732,BUG
+1733,Broken Brothers Brass Band
+1734,Travis Scott
+1735,Kokein
+1736,Dupla
+1737,La La Love You
+1738,ÄURÄ LÍMITE
+1739,YOD
+1740,Xup
+1741,EIRE
+1742,Malmö 040
+1743,Niña Polaca
+1744,Niña Pastori
+1745,Los Tigres Del Norte
+1746,Indidm
+1747,Queen Marci
+1748,Los Angeles Negros
+1749,Rozalén
+1750,Joaquín Sabina
+1751,Haraca Kiko
+1752,Leftside
+1753,Vybz Kartel
+1754,La$$ Suga'
+1755,La Maravillosa Orquesta del Alcohol
+1756,IZAL
+1757,Cala Vento
+1758,Supersubmarina
+1759,Yakintza
+1760,Lontreira
+1761,SALOMON SESSIONS
+1762,Txirri Mirri ta Txiribiton
+1763,El High
+1764,Lao Ra
+1765,Eslabon Armado
+1766,Franco Battiato
+1767,Maritune
+1768,The High Strung
+1769,Grind
+1770,Chima Chiodi
+1771,agosto
+1772,Uña Y Carne
+1773,Stephen Please
+1774,Luis R Conriquez
+1775,Los Gemelos De Sinaloa
+1776,Fuerza Regida
+1777,Victor Cibrian
+1778,Grupo Código Rojo
+1779,La Plazuela
+1780,Midas Alonso
+1781,Rebeliom do Inframundo
+1782,Mushkaa
+1783,Samuel SLZR
+1784,Xxaeery
+1785,Unidad 0
+1786,LaBlackie
+1787,Zaidbreak
+1788,Anixe
+1789,XBawel
+1790,Calagher
+1791,Deeperbeats
+1792,Hide Tyson
+1793,TREIS
+1794,Danny Grazes
+1795,Yung Parse
+1796,C Mirazo
+1797,Sara Zozaya
+1798,MAMBA
+1799,Ogcale
+1800,Millans
+1801,SuperGloo
+1802,PASCUAL
+1803,T3B
+1804,B!LLY
+1805,VALENTINO
+1806,l0rna
+1807,Amenazzy
+1808,Clio BBP
+1809,Çantamarta
+1810,Kimberley Tell
+1811,Trinkiboy
+1812,Dawiz
+1813,Sembrando Kaos
+1814,Jotaefe
+1815,The Louk
+1816,Miren
+1817,GOLDEN21K
+1818,Najwa
+1819,El Bugg
+1820,"Urbieta, Imanol"
+1821,Lou Topet
+1822,Xabier Zabala
+1823,Selecta
+1824,Un Titico
+1825,S.J.K.
+1826,AZZE
+1827,Fernando Acosta
+1828,Otein
+1829,fernando costa
+1830,DukeeMdz
+1831,bosco herrero
+1832,XEFF
+1833,dani6ix
+1834,Deco Mdz
+1835,LANE
+1836,Slappy Av
+1837,WE$T DUBAI
+1838,Lopes
+1839,JAVI BAMBINI CATTIVI
+1840,Holy Youth
+1841,Saw Rules
+1842,Fer y Julio
+1843,tarchi
+1844,bert bert
+1845,Izi Draro
+1846,Mxndxz
+1847,H Roto
+1848,Good Jan
+1849,Neska
+1850,Garfio R
+1851,Crema
+1852,Sofos
+1853,Peso Pluma
+1854,Yng Lvcas
+1855,Nakar
+1856,Annekdotas
+1857,DeathBass
+1858,LosNiñosDelCaminito
+1859,Kiliki
+1860,Mundo Prestigio
+1861,Björk
+1862,Sexenni
+1863,SOTAN
+1864,Cheb Ruben
+1865,935
+1866,Dirty Suc
+1867,Baby Pantera
+1868,Emporio
+1869,Dj Ibéric0
+1870,ControlR
+1871,Ethico
+1872,C Marí
+1873,Carlytos Vela
+1874,31 FAM
+1875,Gorka Urbizu
+1876,marinadorciud
+1877,Nuko
+1878,MOLLY
+1879,CICLO
+1880,Rouss
+1881,Prok
+1882,Miraelbuenrap
+1883,Yassir
+1884,Yosh
+1885,De Rancho
+1886,Chu4758
+1887,Belako
+1888,FADES
+1889,Sara Socas
+1890,La Plaga N11
+1891,Godie08
+1892,stivijoes
+1893,Las Chuches
+1894,AWAKATE
+1895,Christian Nodal
+1896,Viva Belgrado
+1897,Ganges
+1898,Swallow X
+1899,Yeico X Toni
+1900,D.Valentino
+1901,Parkineos
+1902,Parquesvr
+1903,Ovy On The Drums
+1904,Steve Lean
+1905,Tuna de la Facultad de Farmacia
+1906,Vicente Fernández
+1907,Tanxugueiras
+1908,Kidd Keo
+1909,Pedro Calderon
+1910,Dorian
+1911,Los Zigarros
+1912,Biznaga
+1913,LA TXAMA
+1914,Arte Final
+1915,Concentracíon
+1916,Ekida
+1917,DouleurDolor
+1918,Mala Gestión
+1919,Emilia
+1920,Miki Núñez
+1921,IZARO
+1922,Hijos De Nacho Vidal
+1923,BLANCO
+1924,EZ Band
+1925,Marife De Triana
+1926,Maria Becerra
+1927,Enrique Iglesias
+1928,LIT killah
+1929,Los Ángeles Azules
+1930,TINI
+1931,Chencho Corleone
+1932,DJ Snake
+1933,Pedro Guerra
+1934,Rumba Tres
+1935,El Pelos
+1936,Martains
+1937,Delarue
+1938,Joost
+1939,Vieze Asbak
+1940,EZEZEZ
+1941,Neto Peña
+1942,Bihotza
+1943,SAIKO
+1944,UMMO
+1945,PLMK
+1946,LOS JOSELITOS
+1947,Rocío Dúrcal
+1948,Sistemak Arriskutsuak Dira
+1949,Blanco y Sancho
+1950,Mesita
+1951,LISA
+1952,Flowtiago
+1953,Lia Kali
+1954,Gontzal Mendibil
+1955,Guxo
+1956,San Tosielo
+1957,Elene
+1958,Flavio Rodriguez
+1959,Afrosound
+1960,Big One
+1961,Peces Raros
+1962,Los Sufridos
+1963,Anitta
+1964,Los Galvan
+1965,El Bogueto
+1966,Nfx
+1967,M-Clan
+1968,El Sueño de Morfeo
+1969,Dinamarca
+1970,Underdann
+1971,Peaceful Melody
+1972,Mister Decaf
+1973,Sweet Oscar
+1974,vlows
+1975,yourneighborsclassicbeats
+1976,Lullaby
+1977,mininova
+1978,PBdR
+1979,Ed Meteor
+1980,Kewlie
+1981,Naxker
+1982,Borla
+1983,Frank Sinatra
+1984,OMJamie
+1985,Joseph Kobzon
+1986,Marte Lasarte
+1987,Zea Mays
+1988,Eñaut Elorrieta
+1989,Joongle
+1990,Lunivo
+1991,lavender home
+1992,suroboi
+1993,Chill Beats Music
+1994,James Butler
+1995,Salina Cruz
+1996,Florito
+1997,Joseph Nimoh
+1998,Yzalune
+1999,Emiliano Bruguera

@@ -1,0 +1,463 @@
+fecha,milisegundos,Nombre_episodio,razon_comienzo,razon_fin,aleatorio,saltado,idnt_episodio,idnt_comienzo,idnt_fin
+2019-01-12 07:31:54+00:00,59360,Wikipodcast02 - Noticias 07/10,clickrow,endplay,False,False,1,4,2
+2019-10-19 21:47:19+00:00,3517,marihuana,playbtn,endplay,False,False,2,8,2
+2020-07-07 13:18:07+00:00,0,Nadie Sabe Nada: Que la mascarilla no oculte la risa (04/07/2020),clickrow,unexpected-exit,False,False,3,4,6
+2020-07-07 13:18:50+00:00,33716,Nadie Sabe Nada: Que la mascarilla no oculte la risa (04/07/2020),clickrow,endplay,False,False,3,4,2
+2020-07-31 21:48:48+00:00,11717,Como aman los pobres (Gata Cattana),clickrow,endplay,False,False,4,4,2
+2021-02-01 07:22:20+00:00,3621709,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-02-01 23:06:20+00:00,9921,Chuva Suave para Dormir ,clickrow,endplay,False,False,6,4,2
+2021-02-02 06:34:31+00:00,1812009,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-02-03 06:35:18+00:00,736546,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-02-03 06:35:32+00:00,8175,Musica para dormir rápido,appload,endplay,False,False,5,1,2
+2021-02-05 23:12:09+00:00,1800978,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-02-05 23:47:27+00:00,93013,Musica para dormir rápido,appload,logout,False,False,5,1,7
+2021-02-06 07:45:54+00:00,1790659,Musica para dormir rápido,appload,logout,False,False,5,1,7
+2021-02-13 10:18:13+00:00,1806122,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-02-15 06:37:26+00:00,2742958,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-02-15 06:37:42+00:00,368,Musica para dormir rápido,appload,endplay,False,False,5,1,2
+2021-02-15 17:58:23+00:00,1130,Chuva Suave para Dormir ,clickrow,endplay,False,False,6,4,2
+2021-02-15 18:04:59+00:00,2681,Musica para dormir rápido,clickrow,endplay,False,False,5,4,2
+2021-02-18 07:43:32+00:00,1822097,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-02-19 08:09:39+00:00,1805453,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-02-23 05:54:07+00:00,1804213,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-02-27 07:12:03+00:00,1806392,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-02 06:49:07+00:00,1807239,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-07 22:52:15+00:00,9140,Hipnosis para Dormir 2021 🥱💤,clickrow,backbtn,False,False,7,4,9
+2021-03-07 22:52:22+00:00,0,Yoga para Dormir - Abrazo de Agua 🌊🫂✨,backbtn,endplay,False,False,8,7,2
+2021-03-08 05:39:57+00:00,1808063,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-08 05:40:04+00:00,7231,Musica para dormir rápido,appload,endplay,False,False,5,1,2
+2021-03-09 06:12:07+00:00,1806685,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-10 06:39:14+00:00,2100007,Musica para dormir rápido,clickrow,unexpected-exit,False,False,5,4,6
+2021-03-10 06:39:32+00:00,12637,Musica para dormir rápido,appload,endplay,False,False,5,1,2
+2021-03-11 06:33:46+00:00,1809351,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-11 06:33:59+00:00,11992,Musica para dormir rápido,appload,endplay,False,False,5,1,2
+2021-03-13 14:35:14+00:00,1804808,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-14 11:08:59+00:00,1831867,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-16 22:53:49+00:00,121523,Musica para dormir rápido,clickrow,unexpected-exit,False,False,5,4,6
+2021-03-17 06:33:47+00:00,1794031,Musica para dormir rápido,appload,logout,False,False,5,1,7
+2021-03-21 11:45:31+00:00,1804169,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-22 06:31:44+00:00,1807132,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-26 08:34:24+00:00,1805612,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-27 20:09:54+00:00,14587,Musica para dormir rápido,clickrow,unknown,False,False,5,4,11
+2021-03-27 20:09:56+00:00,2263,Musica para dormir rápido,remote,endplay,False,False,5,6,2
+2021-03-29 10:50:29+00:00,3608569,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-30 06:45:18+00:00,1807501,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-30 23:50:18+00:00,1808488,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-03-31 06:31:06+00:00,1800289,Musica para dormir rápido,appload,logout,False,False,5,1,7
+2021-04-01 08:22:02+00:00,1808398,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-04-01 08:22:50+00:00,12606,Musica para dormir rápido,appload,endplay,False,False,5,1,2
+2021-04-03 22:33:41+00:00,288559,Musica para dormir rápido,clickrow,fwdbtn,False,False,5,4,4
+2021-04-03 22:34:56+00:00,3291,Chuva Suave para Dormir ,fwdbtn,endplay,False,False,6,3,2
+2021-04-04 09:17:16+00:00,1471320,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-04-04 22:58:39+00:00,2478031,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-05 10:34:25+00:00,528,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-06 08:20:54+00:00,3147418,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-04-06 23:17:14+00:00,4288175,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-07 07:37:16+00:00,1056,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-09 09:12:01+00:00,1805125,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-04-10 09:21:22+00:00,1805819,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-04-11 07:55:59+00:00,1806041,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-04-11 22:35:39+00:00,4279580,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-12 07:15:35+00:00,528,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-12 21:42:49+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-13 10:06:46+00:00,528,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-13 22:41:41+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-14 20:46:24+00:00,528,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-14 20:46:43+00:00,9925,Chuva Suave para Dormir ,appload,endplay,False,False,6,1,2
+2021-04-14 21:27:59+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-14 21:30:37+00:00,528,Chuva Suave para Dormir ,trackdone,backbtn,False,False,6,2,9
+2021-04-14 22:11:51+00:00,2474573,Musica para dormir rápido,backbtn,trackdone,False,False,5,7,1
+2021-04-15 05:53:24+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-15 06:09:39+00:00,37643,Chuva Suave para Dormir ,appload,endplay,False,False,6,1,2
+2021-04-15 22:35:57+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-15 22:38:38+00:00,528,Chuva Suave para Dormir ,trackdone,endplay,False,False,6,2,2
+2021-04-15 23:19:54+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-16 07:05:45+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-16 22:23:29+00:00,4757066,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-17 10:27:39+00:00,423,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-17 22:56:59+00:00,4645363,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-18 11:47:20+00:00,528,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-18 23:20:24+00:00,5435787,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-19 10:25:08+00:00,528,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-21 21:59:52+00:00,3485409,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-22 05:37:30+00:00,328,Chuva Suave para Dormir ,trackdone,unexpected-exit-while-paused,False,False,6,2,5
+2021-04-22 05:37:58+00:00,1948,Chuva Suave para Dormir ,appload,endplay,False,False,6,1,2
+2021-04-22 21:43:15+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-23 07:14:15+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-23 21:57:37+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-24 01:21:46+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-24 02:33:49+00:00,4293720,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-24 07:14:25+00:00,4293720,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-24 07:14:25+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-24 22:27:26+00:00,4271904,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-25 07:27:33+00:00,2699174,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-25 22:37:01+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-25 23:58:27+00:00,4885639,Chuva Suave para Dormir ,trackdone,trackdone,False,False,6,2,1
+2021-04-28 21:58:36+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-29 03:32:59+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-29 04:14:19+00:00,2474573,Musica para dormir rápido,backbtn,trackdone,False,False,5,7,1
+2021-04-29 06:51:10+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-04-29 22:44:36+00:00,2871780,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-04-30 15:22:02+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-05-02 21:26:56+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-05-03 08:45:42+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-05-05 23:33:56+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-05-05 23:45:55+00:00,0,Chuva Suave para Dormir ,trackdone,backbtn,False,False,6,2,9
+2021-05-06 00:27:10+00:00,2474573,Musica para dormir rápido,backbtn,trackdone,False,False,5,7,1
+2021-05-06 06:47:41+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-05-06 23:41:00+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-05-07 09:04:26+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-05-08 20:16:22+00:00,0,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-05-08 20:51:40+00:00,862273,Musica para dormir rápido,appload,logout,False,False,5,1,7
+2021-05-09 00:58:14+00:00,696036,Musica para dormir rápido,appload,logout,False,False,5,1,7
+2021-05-09 01:39:36+00:00,2474573,Musica para dormir rápido,appload,trackdone,False,False,5,1,1
+2021-05-09 06:45:11+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-05-10 05:07:40+00:00,2516196,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-05-10 05:07:52+00:00,2055,Musica para dormir rápido,appload,endplay,False,False,5,1,2
+2021-05-11 00:50:32+00:00,2477682,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-05-11 08:28:18+00:00,2704909,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-05-11 08:28:27+00:00,6229,Chuva Suave para Dormir ,appload,endplay,False,False,6,1,2
+2021-05-12 21:45:50+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-05-13 16:26:57+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-05-13 22:11:40+00:00,875682,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-05-13 23:00:00+00:00,2474573,Musica para dormir rápido,appload,trackdone,False,False,5,1,1
+2021-05-14 06:01:10+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-05-16 11:28:07+00:00,3583145,Chuva Suave para Dormir ,appload,logout,False,False,6,1,7
+2021-05-17 09:29:14+00:00,3606257,Chuva Suave para Dormir ,clickrow,logout,False,False,6,4,7
+2021-05-18 04:52:11+00:00,1805392,Chuva Suave para Dormir ,clickrow,logout,False,False,6,4,7
+2021-05-20 15:18:57+00:00,2706902,Chuva Suave para Dormir ,clickrow,logout,False,False,6,4,7
+2021-05-20 22:53:43+00:00,240002,Chuva Suave para Dormir ,clickrow,unexpected-exit,False,False,6,4,6
+2021-05-21 04:31:52+00:00,2702750,Chuva Suave para Dormir ,appload,logout,False,False,6,1,7
+2021-05-21 04:34:38+00:00,3128,Chuva Suave para Dormir ,appload,endplay,False,False,6,1,2
+2021-05-22 09:02:06+00:00,2705157,Chuva Suave para Dormir ,clickrow,logout,False,False,6,4,7
+2021-05-22 19:55:21+00:00,16822,Musica para dormir rápido,clickrow,endplay,False,False,5,4,2
+2021-05-22 20:35:51+00:00,9050,Chuva Suave para Dormir ,clickrow,logout,False,False,6,4,7
+2021-05-23 09:09:46+00:00,2703502,Chuva Suave para Dormir ,appload,logout,False,False,6,1,7
+2021-05-24 10:12:18+00:00,2699743,Chuva Suave para Dormir ,appload,logout,False,False,6,1,7
+2021-05-24 21:50:26+00:00,2458573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-05-25 04:38:27+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-05-25 04:38:42+00:00,0,Chuva Suave para Dormir ,appload,endplay,False,False,6,1,2
+2021-05-26 00:02:39+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-05-26 09:53:45+00:00,1056,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-05-26 21:23:55+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-05-27 05:13:45+00:00,528,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-05-27 05:14:03+00:00,2540,Chuva Suave para Dormir ,appload,endplay,False,False,6,1,2
+2021-05-29 00:02:45+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-05-29 14:52:29+00:00,23,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-05-30 22:37:49+00:00,259182,Musica para dormir rápido,clickrow,endplay,False,False,5,4,2
+2021-05-30 23:15:24+00:00,479019,Chuva Suave para Dormir ,clickrow,logout,False,False,6,4,7
+2021-05-31 06:35:14+00:00,2493421,Chuva Suave para Dormir ,appload,logout,False,False,6,1,7
+2021-06-01 04:36:59+00:00,2704599,Chuva Suave para Dormir ,clickrow,logout,False,False,6,4,7
+2021-06-01 04:37:12+00:00,0,Chuva Suave para Dormir ,appload,unexpected-exit,False,False,6,1,6
+2021-06-01 04:37:16+00:00,1187,Chuva Suave para Dormir ,appload,endplay,False,False,6,1,2
+2021-06-03 05:47:51+00:00,2707616,Chuva Suave para Dormir ,clickrow,logout,False,False,6,4,7
+2021-06-03 22:35:21+00:00,1836,Musica para dormir rápido,clickrow,unexpected-exit,False,False,5,4,6
+2021-06-03 23:16:44+00:00,2474573,Musica para dormir rápido,appload,trackdone,False,False,5,1,1
+2021-06-04 07:20:12+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-06-04 21:46:57+00:00,1001,Chuva Suave para Dormir ,clickrow,unexpected-exit,False,False,6,4,6
+2021-06-04 22:48:34+00:00,1979692,Chuva Suave para Dormir ,appload,logout,False,False,6,1,7
+2021-06-05 08:35:45+00:00,2694339,Chuva Suave para Dormir ,appload,logout,False,False,6,1,7
+2021-06-07 06:19:35+00:00,1568975,Chuva Suave para Dormir ,clickrow,logout,False,False,6,4,7
+2021-06-07 06:19:54+00:00,1884,Chuva Suave para Dormir ,appload,endplay,False,False,6,1,2
+2021-06-07 18:53:55+00:00,5379,Chuva Suave para Dormir ,clickrow,unexpected-exit,False,False,6,4,6
+2021-06-08 06:14:48+00:00,3599928,Chuva Suave para Dormir ,appload,logout,False,False,6,1,7
+2021-06-08 22:04:20+00:00,1509064,Chuva Suave para Dormir ,clickrow,endplay,False,False,6,4,2
+2021-06-09 13:16:54+00:00,1799476,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2021-06-09 21:54:58+00:00,2480766,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-06-10 06:29:08+00:00,528,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-06-10 06:29:18+00:00,998,Chuva Suave para Dormir ,appload,endplay,False,False,6,1,2
+2021-06-11 00:49:20+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-06-11 08:39:18+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-06-11 19:14:20+00:00,1596,Musica para dormir rápido,clickrow,endplay,False,False,5,4,2
+2021-06-11 19:14:35+00:00,1079,Musica para dormir rápido,clickrow,unexpected-exit,False,False,5,4,6
+2021-06-12 14:42:14+00:00,1815248,Chuva Suave para Dormir ,clickrow,logout,False,False,6,4,7
+2021-06-12 22:41:17+00:00,2473573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-06-13 10:13:31+00:00,23,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-06-14 00:39:44+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-06-14 08:04:02+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-06-14 22:01:05+00:00,1000,Musica para dormir rápido,clickrow,unexpected-exit,False,False,5,4,6
+2021-06-14 22:42:26+00:00,2474573,Musica para dormir rápido,appload,trackdone,False,False,5,1,1
+2021-06-15 07:32:42+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-06-15 21:52:31+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-06-16 07:08:01+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-06-17 22:01:53+00:00,1001,Musica para dormir rápido,clickrow,unexpected-exit,False,False,5,4,6
+2021-06-17 22:43:17+00:00,2474573,Musica para dormir rápido,appload,trackdone,False,False,5,1,1
+2021-06-18 07:07:42+00:00,400,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-06-18 23:04:00+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-06-18 23:11:08+00:00,23,Chuva Suave para Dormir ,trackdone,endplay,False,False,6,2,2
+2021-06-18 23:52:22+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-06-19 08:06:32+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-07-19 22:42:54+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-07-20 18:18:51+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-07-21 07:39:36+00:00,22519,Chuva Suave para Dormir ,appload,unknown,False,False,6,1,11
+2021-07-21 07:39:47+00:00,11202,Chuva Suave para Dormir ,remote,endplay,False,False,6,6,2
+2021-07-30 22:17:08+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-07-31 09:04:32+00:00,228327,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-07-31 09:04:58+00:00,0,Chuva Suave para Dormir ,unknown,endplay,False,False,6,9,2
+2021-07-31 09:04:58+00:00,0,Chuva Suave para Dormir ,appload,logout,False,False,6,1,7
+2021-07-31 09:05:18+00:00,17630,Chuva Suave para Dormir ,appload,endplay,False,False,6,1,2
+2021-09-23 22:06:00+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-09-24 05:43:28+00:00,528,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-10-12 03:22:41+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-10-12 07:40:14+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2021-10-12 07:40:14+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2021-10-13 08:31:48+00:00,3338201,Chuva Suave para Dormir ,clickrow,unexpected-exit-while-paused,False,False,6,4,5
+2022-01-19 11:18:40+00:00,70532,Rescate en crisis: audio de emergencia para mareos por ansiedad,clickrow,endplay,False,False,9,4,2
+2022-01-19 13:23:20+00:00,454577,RELAJACIÓN GUIADA PARA CALMAR ATAQUES DE ANSIEDAD,clickrow,logout,False,False,10,4,7
+2022-01-19 14:05:25+00:00,8933,RELAJACIÓN GUIADA PARA CALMAR ATAQUES DE ANSIEDAD,appload,endplay,False,False,10,1,2
+2022-01-21 16:03:45+00:00,131135,S.O.S: audio de emergencia para ataques de pánico,clickrow,logout,False,False,11,4,7
+2022-02-01 17:59:44+00:00,426309,RELAJACIÓN GUIADA PARA CALMAR ATAQUES DE ANSIEDAD,clickrow,logout,False,False,10,4,7
+2022-02-01 18:00:24+00:00,0,RELAJACIÓN GUIADA PARA CALMAR ATAQUES DE ANSIEDAD,appload,logout,False,False,10,1,7
+2022-02-07 06:46:11+00:00,1259,SOMOS CHICAS PUENTE | La Pija y la Quinqui 1x01,clickrow,unknown,False,False,12,4,11
+2022-02-07 11:49:18+00:00,2134285,SOMOS CHICAS PUENTE | La Pija y la Quinqui 1x01,remote,logout,False,False,12,6,7
+2022-02-07 11:49:29+00:00,5630,SOMOS CHICAS PUENTE | La Pija y la Quinqui 1x01,appload,unknown,False,False,12,1,11
+2022-02-07 12:19:23+00:00,1794043,SOMOS CHICAS PUENTE | La Pija y la Quinqui 1x01,remote,trackdone,False,False,12,6,1
+2022-02-07 12:19:51+00:00,87,INSALUD MENTAL | La Pija y la Quinqui 1x02,trackdone,endplay,False,False,13,2,2
+2022-02-08 09:37:42+00:00,2212861,INSALUD MENTAL | La Pija y la Quinqui 1x02,clickrow,logout,False,False,13,4,7
+2022-02-09 06:01:54+00:00,1499295,INSALUD MENTAL | La Pija y la Quinqui 1x02,appload,logout,False,False,13,1,7
+2022-02-09 06:29:26+00:00,24809,INSALUD MENTAL | La Pija y la Quinqui 1x02,appload,trackdone,False,False,13,1,1
+2022-02-14 06:35:31+00:00,698,ADICTOS AL AMOR | La Pija y la Quinqui 1x03,clickrow,unknown,False,False,14,4,11
+2022-02-14 09:46:15+00:00,166289,ADICTOS AL AMOR | La Pija y la Quinqui 1x03,clickrow,logout,False,False,14,4,7
+2022-02-14 17:25:30+00:00,2236954,ADICTOS AL AMOR | La Pija y la Quinqui 1x03,remote,unexpected-exit-while-paused,False,False,14,6,5
+2022-02-14 17:25:41+00:00,515,ADICTOS AL AMOR | La Pija y la Quinqui 1x03,appload,endplay,False,False,14,1,2
+2022-02-14 17:58:04+00:00,1943577,ADICTOS AL AMOR | La Pija y la Quinqui 1x03,remote,trackdone,False,False,14,6,1
+2022-02-21 14:52:55+00:00,1962267,ADULTEANDO A MEDIAS | La Pija y la Quinqui 1x04,clickrow,logout,False,False,15,4,7
+2022-02-21 14:52:59+00:00,1199,ADULTEANDO A MEDIAS | La Pija y la Quinqui 1x04,appload,endplay,False,False,15,1,2
+2022-02-21 15:22:04+00:00,1739701,ADULTEANDO A MEDIAS | La Pija y la Quinqui 1x04,remote,trackdone,False,False,15,6,1
+2022-02-28 19:04:55+00:00,1986142,LA ZONA SIN COMFORT | La Pija y la Quinqui 1x05,clickrow,logout,False,False,16,4,7
+2022-02-28 19:38:14+00:00,1995900,LA ZONA SIN COMFORT | La Pija y la Quinqui 1x05,appload,endplay,False,False,16,1,2
+2022-03-07 07:30:59+00:00,818,NO QUIERO SUPERARLO | La Pija y la Quinqui 1x06,clickrow,unknown,False,False,17,4,11
+2022-03-07 19:03:09+00:00,1127584,NO QUIERO SUPERARLO | La Pija y la Quinqui 1x06,remote,logout,False,False,17,6,7
+2022-03-08 06:41:14+00:00,2147729,NO QUIERO SUPERARLO | La Pija y la Quinqui 1x06,appload,logout,False,False,17,1,7
+2022-03-14 19:04:42+00:00,2041256,LA CONTRARREFORMA SEXUAL | La Pija y la Quinqui 1x07,clickrow,logout,False,False,18,4,7
+2022-03-14 19:08:16+00:00,2498,LA CONTRARREFORMA SEXUAL | La Pija y la Quinqui 1x07,appload,unknown,False,False,18,1,11
+2022-03-14 19:41:29+00:00,1993089,LA CONTRARREFORMA SEXUAL | La Pija y la Quinqui 1x07,remote,trackdone,False,False,18,6,1
+2022-03-21 09:50:23+00:00,2026632,UN CINCO SON 6 CRÉDITOS | La Pija y la Quinqui 1x08,clickrow,unexpected-exit-while-paused,False,False,19,4,5
+2022-03-21 10:24:36+00:00,2049740,UN CINCO SON 6 CRÉDITOS | La Pija y la Quinqui 1x08,appload,trackdone,False,False,19,1,1
+2022-03-21 14:19:05+00:00,12707,SOMOS CHICAS PUENTE | La Pija y la Quinqui 1x01,trackdone,unexpected-exit-while-paused,False,False,12,2,5
+2022-03-29 08:44:51+00:00,1772306,NO SOMOS TAN BUENAS | La Pija y la Quinqui 1x09,clickrow,unexpected-exit-while-paused,False,False,20,4,5
+2022-03-29 08:44:54+00:00,1354,NO SOMOS TAN BUENAS | La Pija y la Quinqui 1x09,appload,unknown,False,False,20,1,11
+2022-03-29 09:07:36+00:00,1237491,NO SOMOS TAN BUENAS | La Pija y la Quinqui 1x09,remote,endplay,False,False,20,6,2
+2022-04-01 22:02:20+00:00,14550,Musica para dormir rápido,clickrow,endplay,False,False,5,4,2
+2022-04-01 22:32:21+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,False,21,4,2
+2022-04-02 22:36:16+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-04-04 16:35:19+00:00,2022260,HAZLO POR LA ANÉCDOTA | La Pija y la Quinqui 1x10,clickrow,unexpected-exit-while-paused,False,False,22,4,5
+2022-04-04 17:45:45+00:00,129700,HAZLO POR LA ANÉCDOTA | La Pija y la Quinqui 1x10,appload,unexpected-exit-while-paused,False,False,22,1,5
+2022-04-04 18:14:24+00:00,405090,HAZLO POR LA ANÉCDOTA | La Pija y la Quinqui 1x10,appload,unknown,False,False,22,1,11
+2022-04-04 18:42:56+00:00,1647708,HAZLO POR LA ANÉCDOTA | La Pija y la Quinqui 1x10,remote,endplay,False,False,22,6,2
+2022-04-07 21:18:07+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,False,21,4,2
+2022-04-10 21:58:47+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,False,21,4,2
+2022-04-11 06:32:42+00:00,4740,MIX REGGAETON CLÁSICO,appload,endplay,False,False,23,1,2
+2022-04-11 10:05:49+00:00,2055861,TÓMATELO CON HUMOR | La Pija y la Quinqui 1x11,clickrow,unexpected-exit-while-paused,False,False,24,4,5
+2022-04-11 10:35:29+00:00,1732064,TÓMATELO CON HUMOR | La Pija y la Quinqui 1x11,appload,endplay,False,False,24,1,2
+2022-04-11 21:54:02+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-04-12 06:33:34+00:00,2790,MIX ACDC DJBM,appload,endplay,False,False,25,1,2
+2022-04-13 23:07:01+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-04-14 12:07:29+00:00,9740,MIX ACDC DJBM,appload,unknown,False,False,25,1,11
+2022-04-14 12:07:50+00:00,20005,MIX ACDC DJBM,remote,endplay,False,False,25,6,2
+2022-04-15 21:40:27+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-04-16 20:31:55+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-04-17 21:41:15+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-04-20 06:23:36+00:00,1407493,NACIDAS PARA PECAR | La Pija y la Quinqui 1x12,clickrow,unexpected-exit-while-paused,False,False,26,4,5
+2022-04-21 21:39:29+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-04-22 12:09:57+00:00,28956,Supresor de ATAQUE DE PÁNICO ⚠,clickrow,endplay,False,False,27,4,2
+2022-04-22 12:37:33+00:00,635364,Rescate en crisis: audio de emergencia para mareos por ansiedad,clickrow,unexpected-exit-while-paused,False,False,9,4,5
+2022-04-23 06:33:12+00:00,1141700,Rescate en crisis: audio de emergencia para mareos por ansiedad,appload,logout,False,False,9,1,7
+2022-04-25 08:52:48+00:00,2171140,RÍNDETE | La Pija y la Quinqui 1x13,clickrow,unexpected-exit-while-paused,False,False,28,4,5
+2022-04-25 11:13:52+00:00,1905556,RÍNDETE | La Pija y la Quinqui 1x13,appload,trackdone,False,False,28,1,1
+2022-04-25 11:14:20+00:00,4805,SOMOS CHICAS PUENTE | La Pija y la Quinqui 1x01,trackdone,endplay,False,False,12,2,2
+2022-04-26 11:43:32+00:00,1436277,"Deep Focus Music: Ambient Alpha Waves For Study, and Focus",clickrow,unexpected-exit-while-paused,False,False,29,4,5
+2022-05-03 06:19:27+00:00,3728,INDIES DE MIERDA | La Pija y la Quinqui 1x14,clickrow,endplay,False,False,30,4,2
+2022-05-03 21:39:20+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-05-04 06:46:22+00:00,8267,MIX ACDC DJBM,appload,endplay,False,False,25,1,2
+2022-05-08 02:29:03+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-05-08 22:18:41+00:00,2900800,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-05-09 06:28:48+00:00,4906,MIX ACDC DJBM,appload,endplay,False,False,25,1,2
+2022-05-10 21:50:08+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-05-11 06:39:24+00:00,14158,MIX ACDC DJBM,appload,endplay,False,False,25,1,2
+2022-05-13 11:48:32+00:00,2093302,CUANDO ZARPA EL AMOR | La Pija y la Quinqui 1x15,clickrow,logout,False,False,31,4,7
+2022-05-13 12:17:55+00:00,1754903,CUANDO ZARPA EL AMOR | La Pija y la Quinqui 1x15,appload,endplay,False,False,31,1,2
+2022-05-14 07:30:14+00:00,1565758,INDIES DE MIERDA | La Pija y la Quinqui 1x14,clickrow,unexpected-exit-while-paused,False,False,30,4,5
+2022-05-14 07:30:36+00:00,1565758,INDIES DE MIERDA | La Pija y la Quinqui 1x14,clickrow,unexpected-exit-while-paused,False,False,30,4,5
+2022-05-15 21:41:00+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-05-16 05:38:28+00:00,10339,MIX ACDC DJBM,appload,endplay,False,False,25,1,2
+2022-05-16 13:49:31+00:00,1903555,Música para estudiar y memorizar con todo el cerebro.,clickrow,unexpected-exit-while-paused,False,False,32,4,5
+2022-05-16 14:55:42+00:00,2734871,Música para estudiar y memorizar con todo el cerebro.,appload,logout,False,False,32,1,7
+2022-05-16 15:02:12+00:00,336781,Música para estudiar y memorizar con todo el cerebro.,appload,endplay,False,False,32,1,2
+2022-05-17 06:28:53+00:00,2011731,AUTODESCUIDADOS | La Pija y la Quinqui 1x16,clickrow,unexpected-exit-while-paused,False,False,33,4,5
+2022-05-17 06:29:06+00:00,3265,AUTODESCUIDADOS | La Pija y la Quinqui 1x16,appload,endplay,False,False,33,1,2
+2022-05-17 08:57:15+00:00,533195,"Deep Focus Music: Ambient Alpha Waves For Study, and Focus",clickrow,endplay,False,False,29,4,2
+2022-05-17 09:32:01+00:00,1567762,Música para estudiar y memorizar con todo el cerebro.,clickrow,endplay,False,False,32,4,2
+2022-05-20 07:31:55+00:00,1892502,AUTODESCUIDADOS | La Pija y la Quinqui 1x16,clickrow,unexpected-exit-while-paused,False,False,33,4,5
+2022-05-20 07:32:24+00:00,18057,AUTODESCUIDADOS | La Pija y la Quinqui 1x16,appload,endplay,False,False,33,1,2
+2022-05-20 09:58:23+00:00,1045257,Música para estudiar y memorizar con todo el cerebro.,clickrow,endplay,False,False,32,4,2
+2022-05-20 21:36:31+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-05-21 12:44:35+00:00,2435,MIX ACDC DJBM,appload,endplay,False,False,25,1,2
+2022-05-23 16:45:28+00:00,2062890,LA SOLEDAD | La Pija y la Quinqui 1x17,clickrow,unexpected-exit-while-paused,False,False,34,4,5
+2022-05-23 17:11:08+00:00,1537198,LA SOLEDAD | La Pija y la Quinqui 1x17,appload,trackdone,False,False,34,1,1
+2022-05-29 07:01:04+00:00,18480,LA SOLEDAD | La Pija y la Quinqui 1x17,playbtn,logout,False,False,34,8,7
+2022-05-30 10:48:06+00:00,2401967,PEQUEÑAS MENTIROSAS | La Pija y la Quinqui 1x18,clickrow,unexpected-exit-while-paused,False,False,35,4,5
+2022-05-30 11:07:54+00:00,1173498,PEQUEÑAS MENTIROSAS | La Pija y la Quinqui 1x18,appload,endplay,False,False,35,1,2
+2022-06-04 19:52:22+00:00,95550,Música para estudiar y memorizar con todo el cerebro.,playbtn,endplay,False,False,32,8,2
+2022-06-04 22:43:08+00:00,8641,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,False,21,4,2
+2022-06-04 23:24:08+00:00,2460573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2022-06-05 15:05:07+00:00,556,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2022-06-06 21:05:31+00:00,1806589,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-06-07 11:38:44+00:00,10725,MIX ACDC DJBM,appload,endplay,False,False,25,1,2
+2022-06-07 18:22:58+00:00,1396735,DEL MONTÓN BUENO | La Pija y la Quinqui 1x19,clickrow,unexpected-exit-while-paused,False,False,36,4,5
+2022-06-08 05:12:34+00:00,1463451,DEL MONTÓN BUENO | La Pija y la Quinqui 1x19,clickrow,unexpected-exit-while-paused,False,False,36,4,5
+2022-06-08 05:12:51+00:00,13795,DEL MONTÓN BUENO | La Pija y la Quinqui 1x19,appload,endplay,False,False,36,1,2
+2022-06-08 05:47:27+00:00,1129716,DEL MONTÓN BUENO | La Pija y la Quinqui 1x19,clickrow,trackdone,False,False,36,4,1
+2022-06-08 05:47:47+00:00,2368,SOMOS CHICAS PUENTE | La Pija y la Quinqui 1x01,trackdone,endplay,False,False,12,2,2
+2022-06-09 08:11:48+00:00,2320207,"Deep Focus Music: Ambient Alpha Waves For Study, and Focus",playbtn,logout,False,False,29,8,7
+2022-06-11 00:41:16+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-06-11 07:32:58+00:00,8484,MIX ACDC DJBM,appload,endplay,False,False,25,1,2
+2022-06-14 14:58:17+00:00,1838945,COMPLACIENTES | La Pija y la Quinqui 1x20,clickrow,unexpected-exit-while-paused,False,False,37,4,5
+2022-06-15 14:35:35+00:00,1726340,COMPLACIENTES | La Pija y la Quinqui 1x20,clickrow,endplay,False,False,37,4,2
+2022-06-19 14:41:47+00:00,72766,No.056 - Música de piano para estudiar,clickrow,unexpected-exit-while-paused,False,False,38,4,5
+2022-06-19 17:51:53+00:00,545097,REFERENTES | La Pija y la Quinqui 1x21,clickrow,endplay,False,False,39,4,2
+2022-06-20 22:14:32+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-06-21 05:21:43+00:00,17887,MIX ACDC DJBM,appload,endplay,False,False,25,1,2
+2022-06-24 16:51:28+00:00,1900987,REFERENTES | La Pija y la Quinqui 1x21,clickrow,unexpected-exit-while-paused,False,False,39,4,5
+2022-06-24 17:24:22+00:00,1960562,REFERENTES | La Pija y la Quinqui 1x21,appload,trackdone,False,False,39,1,1
+2022-06-25 14:14:08+00:00,1562,SOMOS CHICAS PUENTE | La Pija y la Quinqui 1x01,trackdone,unexpected-exit-while-paused,False,False,12,2,5
+2022-06-27 16:52:04+00:00,1977871,ABURRIDAS | La Pija y la Quinqui 1x22,clickrow,unexpected-exit-while-paused,False,False,40,4,5
+2022-06-27 16:52:12+00:00,5969,ABURRIDAS | La Pija y la Quinqui 1x22,appload,endplay,False,False,40,1,2
+2022-07-01 06:05:06+00:00,1922028,ABURRIDAS | La Pija y la Quinqui 1x22,clickrow,unexpected-exit-while-paused,False,False,40,4,5
+2022-07-01 06:05:21+00:00,1577,ABURRIDAS | La Pija y la Quinqui 1x22,appload,endplay,False,False,40,1,2
+2022-07-05 15:50:47+00:00,928623,FIESTA LA QUE TE VA A DAR ESTA | La Pija y la Quinqui 1x23,clickrow,endplay,False,False,41,4,2
+2022-07-06 14:53:28+00:00,1882765,FIESTA LA QUE TE VA A DAR ESTA | La Pija y la Quinqui 1x23,clickrow,unexpected-exit-while-paused,False,False,41,4,5
+2022-07-06 15:10:28+00:00,1011882,FIESTA LA QUE TE VA A DAR ESTA | La Pija y la Quinqui 1x23,appload,endplay,False,False,41,1,2
+2022-07-13 15:10:19+00:00,2827520,CUENTA TU VERDAD | La Pija y la Quinqui 1x24,clickrow,unexpected-exit-while-paused,False,False,42,4,5
+2022-08-05 04:30:02+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2022-08-06 07:48:36+00:00,0,Chuva Suave para Dormir ,trackdone,unexpected-exit-while-paused,False,False,6,2,5
+2022-08-06 21:52:56+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,False,21,4,2
+2022-08-07 22:08:25+00:00,1927101,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,False,21,4,2
+2022-08-11 23:43:39+00:00,906602,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,logout,False,False,21,4,7
+2022-08-12 08:21:47+00:00,2707011,Chuva Suave para Dormir ,clickrow,logout,False,False,6,4,7
+2022-08-12 08:22:15+00:00,22684,Chuva Suave para Dormir ,appload,endplay,False,False,6,1,2
+2022-08-13 21:47:36+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2022-08-14 19:57:56+00:00,103,Chuva Suave para Dormir ,trackdone,unexpected-exit-while-paused,False,False,6,2,5
+2022-08-14 23:48:19+00:00,1805945,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-08-26 00:37:32+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-08-31 23:37:13+00:00,2835456,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2022-09-02 00:34:09+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2022-09-02 11:04:43+00:00,0,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2022-09-03 17:09:28+00:00,488447,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,logout,False,False,21,4,7
+2022-09-03 17:09:58+00:00,25121,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",appload,endplay,False,False,21,1,2
+2022-10-09 06:08:25+00:00,4747786,"Deep Focus Music: Ambient Alpha Waves For Study, and Focus",playbtn,logout,True,False,29,8,7
+2022-10-16 20:21:59+00:00,3226411,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2022-10-17 05:35:48+00:00,21742,Chuva Suave para Dormir ,appload,endplay,False,True,6,1,2
+2022-10-18 20:59:37+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2022-10-18 21:09:45+00:00,533,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2022-10-19 06:05:18+00:00,736,Chuva Suave para Dormir ,appload,endplay,False,True,6,1,2
+2022-10-19 13:05:38+00:00,3610293,"Deep Focus Music: Ambient Alpha Waves For Study, and Focus",appload,endplay,True,True,29,1,2
+2022-10-21 07:41:04+00:00,4699006,"Deep Focus Music: Ambient Alpha Waves For Study, and Focus",trackdone,logout,True,False,29,2,7
+2022-10-21 10:12:45+00:00,1357,SOMOS CHICAS PUENTE | La Pija y la Quinqui 1x01,trackdone,unexpected-exit-while-paused,False,False,12,2,5
+2022-10-21 16:07:11+00:00,1000,SOMOS CHICAS PUENTE | La Pija y la Quinqui 1x01,appload,endplay,False,True,12,1,2
+2022-10-25 11:00:56+00:00,3526077,"Deep Focus Music: Ambient Alpha Waves For Study, and Focus",appload,endplay,True,True,29,1,2
+2022-11-02 05:30:45+00:00,2707306,Sueño Profundo y Reparación Con Antiestrés,clickrow,logout,False,False,43,4,7
+2022-11-02 07:19:03+00:00,6116,Sueño Profundo y Reparación Con Antiestrés,appload,endplay,False,True,43,1,2
+2022-11-02 22:02:38+00:00,170047,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2022-11-02 23:27:13+00:00,2706138,Sueño Profundo y Reparación Con Antiestrés,clickrow,logout,False,False,43,4,7
+2022-11-03 06:42:52+00:00,8972,Sueño Profundo y Reparación Con Antiestrés,appload,endplay,False,True,43,1,2
+2022-11-09 10:45:11+00:00,9652,SOMOS CHICAS PUENTE | La Pija y la Quinqui 1x01,trackdone,endplay,False,True,12,2,2
+2022-11-14 23:00:19+00:00,2478897,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2022-11-14 23:10:21+00:00,556,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2022-11-15 06:41:26+00:00,8464,Chuva Suave para Dormir ,appload,endplay,False,True,6,1,2
+2022-11-15 11:51:29+00:00,3110661,"Activa tu Cerebro con Ondas GAMMA Binaurales para estudiar, concentrarte y mejorar tu memoria 3 HorasASMR",playbtn,logout,False,False,44,8,7
+2022-11-20 23:21:07+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2022-11-20 23:32:33+00:00,533,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2022-11-21 22:45:50+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2022-11-22 00:07:03+00:00,4871639,Chuva Suave para Dormir ,trackdone,trackdone,False,False,6,2,1
+2022-11-22 06:24:47+00:00,13248,Musica para dormir rápido,appload,endplay,False,True,5,1,2
+2022-11-29 07:51:35+00:00,788038,"Activa tu Cerebro con Ondas GAMMA Binaurales para estudiar, concentrarte y mejorar tu memoria 3 HorasASMR",playbtn,logout,False,False,44,8,7
+2022-12-09 04:47:26+00:00,2461573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2022-12-11 23:14:05+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2022-12-12 06:32:54+00:00,8474,Chuva Suave para Dormir ,playbtn,endplay,True,True,6,8,2
+2022-12-13 23:14:48+00:00,210000,Musica para dormir rápido,clickrow,unexpected-exit,False,False,5,4,6
+2022-12-14 00:09:02+00:00,2944920,Musica para dormir rápido,appload,trackdone,False,False,5,1,1
+2022-12-16 11:22:01+00:00,2880141,Power Focus - 14Hz Beta Waves that Improve Concentration and Focus,clickrow,endplay,False,True,45,4,2
+2022-12-20 04:10:54+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2022-12-20 07:58:59+00:00,3871,Chuva Suave para Dormir ,appload,endplay,False,True,6,1,2
+2022-12-23 17:01:58+00:00,948674,"Activa tu Cerebro con Ondas GAMMA Binaurales para estudiar, concentrarte y mejorar tu memoria 3 HorasASMR",playbtn,endplay,True,True,44,8,2
+2022-12-27 10:28:02+00:00,2243082,Power Focus - 14Hz Beta Waves that Improve Concentration and Focus,clickrow,unexpected-exit-while-paused,False,False,45,4,5
+2022-12-27 13:05:14+00:00,3607,Power Focus - 14Hz Beta Waves that Improve Concentration and Focus,appload,endplay,False,True,45,1,2
+2023-01-01 23:15:46+00:00,3607356,Sueño Profundo y Reparación Con Antiestrés,clickrow,logout,False,False,43,4,7
+2023-01-02 06:50:28+00:00,7791,Sueño Profundo y Reparación Con Antiestrés,appload,endplay,False,True,43,1,2
+2023-01-04 23:33:58+00:00,3765115,Sueño Profundo y Reparación Con Antiestrés,clickrow,logout,False,False,43,4,7
+2023-01-05 06:07:26+00:00,3602730,Sueño Profundo y Reparación Con Antiestrés,appload,logout,False,False,43,1,7
+2023-01-11 17:01:14+00:00,4196000,Study Music Intensify your learning Relax studying,clickrow,unexpected-exit-while-paused,False,False,46,4,5
+2023-01-11 17:45:58+00:00,942242,Study Music Intensify your learning Relax studying,appload,endplay,False,True,46,1,2
+2023-01-11 18:09:14+00:00,793983,Power Focus - 14Hz Beta Waves that Improve Concentration and Focus,clickrow,logout,False,False,45,4,7
+2023-01-11 23:29:59+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2023-01-11 23:40:00+00:00,556,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2023-01-12 23:15:28+00:00,1660005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,True,21,4,2
+2023-01-14 19:25:30+00:00,3618298,"Activa tu Cerebro con Ondas GAMMA Binaurales para estudiar, concentrarte y mejorar tu memoria 3 HorasASMR",playbtn,endplay,False,True,44,8,2
+2023-01-17 00:00:28+00:00,2474573,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2023-01-17 00:10:31+00:00,21,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2023-01-17 06:24:49+00:00,17831,Chuva Suave para Dormir ,appload,endplay,False,True,6,1,2
+2023-01-17 14:11:57+00:00,7167,Sueño Profundo y Reparación Con Antiestrés,clickrow,endplay,False,True,43,4,2
+2023-01-17 14:12:03+00:00,4802,Musica para dormir rápido,clickrow,unexpected-exit-while-paused,False,False,5,4,5
+2023-01-17 19:18:09+00:00,6846,Musica para dormir rápido,appload,endplay,False,True,5,1,2
+2023-01-31 23:19:25+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2023-02-01 06:41:26+00:00,15694,MIX ACDC DJBM,appload,endplay,False,True,25,1,2
+2023-02-13 00:20:40+00:00,3603775,The Best Sleep Music 5 Relaxing Tracks Guaranteed To Help You Get To Sleep,playbtn,logout,False,False,47,8,7
+2023-02-13 06:47:39+00:00,9881,The Best Sleep Music 5 Relaxing Tracks Guaranteed To Help You Get To Sleep,appload,endplay,False,True,47,1,2
+2023-02-18 08:30:25+00:00,269870,"Activa tu Cerebro con Ondas GAMMA Binaurales para estudiar, concentrarte y mejorar tu memoria 3 HorasASMR",clickrow,unexpected-exit-while-paused,False,False,44,4,5
+2023-04-14 12:58:52+00:00,2887,No.027 - Sonidos para quitar miedo y ansiedad,clickrow,unknown,False,False,48,4,11
+2023-04-14 13:12:33+00:00,796474,No.027 - Sonidos para quitar miedo y ansiedad,remote,logout,False,False,48,6,7
+2023-04-15 01:45:35+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,True,21,4,2
+2023-04-15 01:49:28+00:00,1087,MIX ACDC DJBM,backbtn,endplay,False,True,25,7,2
+2023-04-15 02:19:29+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2023-05-07 22:21:10+00:00,2896484,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2023-05-08 05:43:40+00:00,14043,MIX ACDC DJBM,appload,endplay,False,True,25,1,2
+2023-05-19 05:59:48+00:00,43319,Estudiemos Juntos 📚✨ 2 hs + 20' descanso,clickrow,endplay,False,True,49,4,2
+2023-05-19 06:00:49+00:00,14204,study with me | 2 hour pomodoro session with breaks ˚* ੈ✩‧₊,clickrow,endplay,False,True,50,4,2
+2023-05-19 06:01:38+00:00,9000,Estudiemos Juntos 📚✨ 2 hs + 20' descanso,clickrow,logout,False,False,49,4,7
+2023-06-04 21:24:24+00:00,1742458,Sueño Profundo y Reparación Con Antiestrés,clickrow,endplay,False,True,43,4,2
+2023-06-04 21:54:26+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2023-06-05 06:01:54+00:00,18467,MIX ACDC DJBM,appload,endplay,False,True,25,1,2
+2023-06-06 20:41:40+00:00,54042,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,True,21,4,2
+2023-06-06 20:41:59+00:00,3669,Hipnosis para dormir rápido y sin preocupaciones 🧘🎈✨,clickrow,endplay,False,True,51,4,2
+2023-06-06 20:42:08+00:00,8217,Duerme sin ansiedad,clickrow,endplay,False,True,52,4,2
+2023-06-06 20:42:42+00:00,34164,MÚSICA RELAJANTE PARA DORMIR en 8D para aliviar DOLORES MUSCULARES- Frecuencia Solfeggio 190hz,clickrow,endplay,False,True,53,4,2
+2023-06-06 20:43:31+00:00,22153,2 horas de Ruido Blanco para siesta de tu bebé,clickrow,endplay,False,True,54,4,2
+2023-06-06 20:43:44+00:00,11532,FALL INTO SLEEP INSTANTLY ★︎ Relaxing Music to Reduce Anxiety and Help You Sleep ★︎ Meditation,clickrow,endplay,False,True,55,4,2
+2023-06-06 21:59:31+00:00,3618748,Powerful Binaural Beats Delta Waves + 432 Hz For Deep Sleep,clickrow,logout,False,False,56,4,7
+2023-06-25 22:41:21+00:00,3605631,MÚSICA RELAJANTE PARA DORMIR en 8D para aliviar DOLORES MUSCULARES- Frecuencia Solfeggio 190hz,clickrow,logout,False,False,53,4,7
+2023-06-26 21:35:46+00:00,1749005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,trackdone,False,False,21,4,1
+2023-08-03 22:10:13+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,True,21,4,2
+2023-08-07 23:38:53+00:00,1802005,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,True,21,4,2
+2023-10-15 21:45:38+00:00,30148,Hipnosis para dormir rápido 🧞✨,clickrow,endplay,False,True,57,4,2
+2023-10-15 21:46:10+00:00,28736,Sueño Profundo y Reparación Con Antiestrés,clickrow,endplay,False,True,43,4,2
+2023-10-15 21:46:30+00:00,19168,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,True,21,4,2
+2023-10-15 21:53:52+00:00,364250,Duerme sin ansiedad,clickrow,endplay,False,True,52,4,2
+2023-10-15 21:54:31+00:00,7160,"1. Meditación para dormir profundamente, relajación guiada.",clickrow,endplay,False,True,58,4,2
+2023-10-15 21:55:55+00:00,74220,Hipnosis para dormir rápido 🧞✨,clickrow,endplay,False,True,57,4,2
+2023-10-15 22:26:48+00:00,830700,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,logout,False,False,21,4,7
+2023-10-16 08:34:53+00:00,2938,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",appload,endplay,False,True,21,1,2
+2023-12-20 12:02:59+00:00,397502,El Faro | Bucle,clickrow,unexpected-exit-while-paused,False,False,59,4,5
+2023-12-20 13:02:17+00:00,2482,El Faro | Bucle,appload,endplay,False,True,59,1,2
+2024-03-23 22:38:36+00:00,17297,"Música milagrosa para dormir profundamente, relajarse, meditar, paz mental",clickrow,endplay,False,True,21,4,2
+2024-03-29 10:40:56+00:00,716498,BELARRIJANA 01 - Meta-belarrijana. Titanic eta politizazioa,playbtn,remote,False,False,60,8,8
+2024-04-01 23:27:21+00:00,2400012,Musica para dormir rápido,clickrow,unexpected-exit,False,False,5,4,6
+2024-04-09 23:14:18+00:00,17276,Hipnosis para dormir rápido y sin preocupaciones 🧘🎈✨,clickrow,endplay,False,True,51,4,2
+2024-04-10 00:15:34+00:00,2384590,Sueño Profundo y Reparación Con Antiestrés,clickrow,logout,False,False,43,4,7
+2024-05-07 23:45:07+00:00,2651496,Sueño Profundo y Reparación Con Antiestrés,clickrow,endplay,False,True,43,4,2
+2024-05-08 00:25:15+00:00,1780236,Musica para dormir rápido,clickrow,logout,False,False,5,4,7
+2024-05-15 23:34:54+00:00,2477192,Musica para dormir rápido,clickrow,trackdone,False,False,5,4,1
+2024-05-15 23:44:57+00:00,20,Chuva Suave para Dormir ,trackdone,logout,False,False,6,2,7
+2024-07-17 22:53:09+00:00,2706301,Sueño Profundo y Reparación Con Antiestrés,clickrow,logout,False,False,43,4,7
+2024-08-07 00:14:44+00:00,2707390,Sueño Profundo y Reparación Con Antiestrés,clickrow,logout,False,False,43,4,7
+2024-08-22 00:34:40+00:00,5409502,Sueño Profundo y Reparación Con Antiestrés,clickrow,logout,False,False,43,4,7
+2024-08-27 01:10:24+00:00,2709574,Sueño Profundo y Reparación Con Antiestrés,clickrow,logout,False,False,43,4,7
+2024-08-27 23:05:10+00:00,304580,Sueño Profundo y Reparación Con Antiestrés,appload,logout,False,False,43,1,7
+2024-08-27 23:56:17+00:00,1671580,Sueño Profundo y Reparación Con Antiestrés,appload,logout,False,False,43,1,7
+2024-09-11 21:55:22+00:00,3200,Desorden mental. 6 de enero de 1968.,clickrow,endplay,False,True,61,4,2
+2024-09-11 22:00:40+00:00,314003,"Franz Kafka: su vida, su obra, su tiempo (I): Vida y tiempo de Kafka",clickrow,unexpected-exit-while-paused,False,False,62,4,5
+2024-10-07 21:49:32+00:00,1686010,Sueño Profundo y Reparación Con Antiestrés,clickrow,endplay,False,True,43,4,2
+2024-10-07 21:51:39+00:00,9970,Sanación y Milagros Sobrenaturales/ Historias Reales ,trackdone,backbtn,False,True,63,2,9
+2024-10-07 22:46:45+00:00,2703520,Sueño Profundo y Reparación Con Antiestrés,backbtn,logout,False,False,43,7,7
+2024-11-28 20:34:20+00:00,2880,Un libro una hora: El jugador - Fiódor Dostoyevski (28/02/2021),clickrow,endplay,False,True,64,4,2
+2024-12-04 13:06:37+00:00,0,Las 4 claves para ser emocionalmente inteligente,unknown,endplay,False,True,65,9,2
