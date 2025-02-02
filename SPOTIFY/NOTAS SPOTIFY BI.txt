@@ -1,0 +1,3 @@
+NOTAS SPOTIFY BI:
+- CAMBIAR ETL, de la tabla de podcasts hay que quitar razón comienzo razón fin
+- la columna de fecha dividir en dos: fecha y hora
